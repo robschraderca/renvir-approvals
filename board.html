@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Renvir Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0b0b0c; --ground:#111214; --panel:#17181b; --line:#26282d; --grey:#8a8f99; --mist:#c9ccd3; --white:#f4f3ef;
+    --gold:#c9a24a; --gold-soft:rgba(201,162,74,.16); --red:#c05a4a; --amber:#d8a14a; --green:#6fae7d;
+    --oswald:"Oswald",Impact,sans-serif; --inter:"Inter",system-ui,-apple-system,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--ground);color:var(--white);font-family:var(--inter);font-size:14px;line-height:1.45}
+  a{color:inherit}
+  .wrap{max-width:1360px;margin:0 auto;padding:0 28px 80px}
+
+  header{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;padding:34px 0 22px;border-bottom:1px solid var(--line)}
+  .mark{font-family:var(--oswald);font-weight:600;font-size:22px;letter-spacing:.22em;text-transform:uppercase}
+  .mark sup{font-size:9px;letter-spacing:0;vertical-align:top;margin-left:2px}
+  .mark small{display:block;font-family:var(--inter);font-weight:400;font-size:12px;letter-spacing:.02em;color:var(--grey);text-transform:none;margin-top:4px}
+  .who{display:flex;align-items:center;gap:10px;color:var(--grey);font-size:12px}
+  .who button{background:transparent;border:1px solid var(--line);color:var(--mist);padding:7px 14px;border-radius:999px;cursor:pointer;font:500 12px var(--inter);letter-spacing:.04em}
+  .who button.on{border-color:var(--gold);color:var(--gold);background:var(--gold-soft)}
+
+  .stats{display:grid;grid-template-columns:repeat(6,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin:26px 0}
+  .stat{background:var(--panel);padding:18px 20px 16px;min-height:104px;position:relative}
+  .stat .n{font-family:var(--oswald);font-weight:300;font-size:40px;line-height:1;letter-spacing:.01em}
+  .stat .l{color:var(--grey);font-size:11px;letter-spacing:.12em;text-transform:uppercase;margin-top:8px}
+  .stat svg{position:absolute;right:16px;bottom:14px;width:90px;height:30px}
+  .stat .d{color:var(--gold);font-size:12px;margin-left:8px;font-family:var(--inter)}
+
+  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 22px}
+  .chip{border:1px solid var(--line);border-radius:999px;padding:6px 13px;font-size:12px;color:var(--mist);cursor:pointer;background:transparent;font-family:var(--inter);letter-spacing:.03em}
+  .chip.on{border-color:var(--white);color:var(--ink);background:var(--white)}
+  .bar .sep{width:1px;height:20px;background:var(--line);margin:0 6px}
+  .bar .stamp{margin-left:auto;color:var(--grey);font-size:11px;letter-spacing:.06em}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+  .card{background:var(--panel);border:1px solid var(--line);display:flex;flex-direction:column;overflow:hidden}
+  .media{background:var(--ink);aspect-ratio:4/5;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .media.r916{aspect-ratio:9/16;max-height:520px}
+  .media img,.media video{width:100%;height:100%;object-fit:contain;display:block}
+  .media .none{color:var(--grey);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+  .status{position:absolute;top:12px;left:12px;font-size:10px;letter-spacing:.16em;text-transform:uppercase;padding:5px 9px;background:rgba(11,11,12,.78);border:1px solid var(--line);backdrop-filter:blur(6px)}
+  .status.approved{color:var(--green);border-color:rgba(111,174,125,.5)} .status.live{color:var(--gold);border-color:var(--gold)}
+  .status.changes{color:var(--amber)} .status.rejected{color:var(--red)} .status.review{color:var(--mist)} .status.draft{color:var(--grey)}
+  .body{padding:14px 16px 12px;display:flex;flex-direction:column;gap:10px;flex:1}
+  .title{font-family:var(--oswald);font-weight:500;font-size:18px;letter-spacing:.03em;text-transform:uppercase;line-height:1.15}
+  .meta{color:var(--grey);font-size:11px;letter-spacing:.08em;text-transform:uppercase;display:flex;gap:10px;flex-wrap:wrap}
+  .meta b{color:var(--mist);font-weight:500}
+  .notes{color:var(--mist);font-size:12.5px;line-height:1.5;max-height:5.9em;overflow:hidden}
+  .notes.open{max-height:none}
+  .more{color:var(--gold);font-size:11px;cursor:pointer;letter-spacing:.06em;text-transform:uppercase}
+
+  .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
+  .metrics div{background:var(--ink);padding:8px 10px}
+  .metrics .n{font-family:var(--oswald);font-weight:300;font-size:22px;line-height:1}
+  .metrics .l{color:var(--grey);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;margin-top:3px}
+  .plat{color:var(--grey);font-size:11px;display:flex;gap:12px}
+  .plat a{color:var(--gold);text-decoration:none;letter-spacing:.06em;text-transform:uppercase;font-size:10.5px}
+
+  .decisions{display:flex;flex-direction:column;gap:4px;border-top:1px solid var(--line);padding-top:10px}
+  .dec{display:flex;gap:8px;font-size:12px;color:var(--mist);align-items:baseline}
+  .dec .r{color:var(--white);font-weight:500;min-width:36px}
+  .dec .v{letter-spacing:.1em;text-transform:uppercase;font-size:10px}
+  .dec .v.approve{color:var(--green)} .dec .v.changes{color:var(--amber)} .dec .v.reject{color:var(--red)}
+  .dec .t{color:var(--grey);font-size:10.5px;margin-left:auto;white-space:nowrap}
+  .dec .note{width:100%;color:var(--mist);font-size:12px;padding-left:44px;line-height:1.4}
+  .pending{color:var(--gold);font-size:10.5px;letter-spacing:.06em}
+
+  .act{border-top:1px solid var(--line);padding-top:12px;display:flex;flex-direction:column;gap:8px}
+  .btns{display:flex;gap:6px}
+  .btns button{flex:1;border:1px solid var(--line);background:transparent;color:var(--mist);padding:10px 0;cursor:pointer;font:500 11px var(--inter);letter-spacing:.14em;text-transform:uppercase;transition:all .15s}
+  .btns button:hover{border-color:var(--white);color:var(--white)}
+  .btns button.a:hover{border-color:var(--green);color:var(--green)} .btns button.c:hover{border-color:var(--amber);color:var(--amber)} .btns button.x:hover{border-color:var(--red);color:var(--red)}
+  .btns button:disabled{opacity:.35;cursor:default}
+  textarea{width:100%;background:var(--ink);border:1px solid var(--line);color:var(--white);font:13px/1.45 var(--inter);padding:9px 10px;resize:vertical;min-height:44px}
+  textarea:focus{outline:none;border-color:var(--gold)}
+  .cap summary{cursor:pointer;color:var(--grey);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+  .cap textarea{margin-top:8px;min-height:120px}
+  .mail{color:var(--grey);font-size:11px}
+  .mail a{color:var(--grey)}
+  .toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);background:var(--white);color:var(--ink);padding:12px 20px;font-size:13px;letter-spacing:.02em;border-radius:2px;opacity:0;pointer-events:none;transition:opacity .2s}
+  .toast.on{opacity:1}
+  .lock{border:1px solid var(--gold);color:var(--gold);padding:12px 16px;font-size:12.5px;margin:0 0 18px;background:var(--gold-soft)}
+  .empty{color:var(--grey);padding:60px 0;text-align:center;letter-spacing:.1em;text-transform:uppercase;font-size:12px}
+  @media (max-width:900px){.stats{grid-template-columns:repeat(3,1fr)} .wrap{padding:0 16px 60px} header{flex-direction:column;align-items:flex-start;gap:14px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="mark">Renvir<sup>&reg;</sup><small>Creative board. What is in review, what is approved, what is live and how it is doing.</small></div>
+    <div class="who">I am <button data-w="Alex">Alex</button><button data-w="Ray">Ray</button><button data-w="Rob">Rob</button></div>
+  </header>
+
+  <div id="lock" class="lock" hidden>Pick your name at the top right to approve or request changes. Your choice is remembered on this device.</div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="bar" id="bar"></div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden>Nothing here yet</div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+// ---- config (the only lines to edit when this moves to another domain or account) ----
+const RELAY_URL = "";                       // Apps Script web app URL. Empty means email fallback only.
+const DATA_URL  = "data.json";              // written by sync.py
+const MAIL_TO   = "robschraderca@gmail.com";
+const MEDIA_FALLBACK = [ "media/", "" ];    // where to look for a piece's file, in order
+
+const $ = s => document.querySelector(s);
+const fmt = n => n == null ? "·" : n >= 10000 ? (n/1000).toFixed(1).replace(/\.0$/,"") + "k" : String(n);
+const ago = iso => { const d = (Date.now() - new Date(iso)) / 36e5; return d < 1 ? "just now" : d < 24 ? Math.round(d) + "h ago" : Math.round(d/24) + "d ago"; };
+const day = iso => iso ? new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric" }) : "";
+let DATA = null, WEEK = "all", STATUS = "all", WHO = null;
+try { WHO = localStorage.getItem("renvir_who"); } catch (e) {}
+const pendingKey = "renvir_pending";
+let PENDING = {}; try { PENDING = JSON.parse(localStorage.getItem(pendingKey) || "{}"); } catch (e) {}
+
+function toast(m) { const t = $("#toast"); t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 2600); }
+
+function spark(series, w = 90, h = 30) {
+  const v = series.map(s => s.followers).filter(x => x != null);
+  if (v.length < 2) return "";
+  const mn = Math.min(...v), mx = Math.max(...v), r = mx - mn || 1;
+  const pts = v.map((y, i) => `${(i / (v.length - 1)) * w},${h - ((y - mn) / r) * (h - 2) - 1}`).join(" ");
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline fill="none" stroke="#c9a24a" stroke-width="1.5" points="${pts}"/></svg>`;
+}
+
+function sum(pieces, key) { return pieces.reduce((a, p) => a + p.posts.reduce((b, x) => b + ((x.latest || {})[key] || 0), 0), 0); }
+
+function renderStats() {
+  const P = DATA.pieces, ig = DATA.accounts.instagram || [], fb = DATA.accounts.facebook || [];
+  const last = a => a.length ? a[a.length - 1].followers : null, first = a => a.length ? a[0].followers : null;
+  const delta = a => (last(a) != null && first(a) != null && a.length > 1) ? (last(a) - first(a)) : null;
+  const d = (x) => x == null ? "" : `<span class="d">${x >= 0 ? "+" : ""}${x}</span>`;
+  const week = [...new Set(P.map(p => p.week))].sort().pop();
+  const tiles = [
+    { n: P.length, l: "pieces made" },
+    { n: P.filter(p => p.status === "review").length, l: "waiting on approval" },
+    { n: P.filter(p => p.status === "approved" || p.status === "live").length, l: "approved or live" },
+    { n: fmt(last(ig)) + d(delta(ig)), l: "instagram followers", s: spark(ig) },
+    { n: fmt(last(fb)) + d(delta(fb)), l: "facebook followers", s: spark(fb) },
+    { n: fmt(sum(P, "reach")), l: "organic reach, all posts" },
+  ];
+  $("#stats").innerHTML = tiles.map(t => `<div class="stat"><div class="n">${t.n}</div><div class="l">${t.l}</div>${t.s || ""}</div>`).join("");
+}
+
+function renderBar() {
+  const weeks = [...new Set(DATA.pieces.map(p => p.week))].sort().reverse();
+  const statuses = ["review", "approved", "live", "changes", "rejected", "draft"];
+  $("#bar").innerHTML =
+    `<button class="chip ${WEEK === "all" ? "on" : ""}" data-week="all">All weeks</button>` +
+    weeks.map(w => `<button class="chip ${WEEK === w ? "on" : ""}" data-week="${w}">${w}</button>`).join("") +
+    `<span class="sep"></span>` +
+    `<button class="chip ${STATUS === "all" ? "on" : ""}" data-status="all">Everything</button>` +
+    statuses.map(s => `<button class="chip ${STATUS === s ? "on" : ""}" data-status="${s}">${s}</button>`).join("") +
+    `<span class="stamp">Updated ${ago(DATA.generated_at)}</span>`;
+}
+
+function mediaTag(p) {
+  if (!p.file) return `<div class="none">No file yet</div>`;
+  const srcs = p.public_url ? [p.public_url, ...MEDIA_FALLBACK.map(m => m + p.file)] : MEDIA_FALLBACK.map(m => m + p.file);
+  const isVideo = /\.(mp4|mov|webm)$/i.test(p.file);
+  const chain = JSON.stringify(srcs).replace(/"/g, "&quot;");   // valid JSON for nextSrc, quotes escaped for the attribute
+  return isVideo
+    ? `<video muted playsinline loop preload="metadata" data-srcs="${chain}" src="${srcs[0]}" onmouseenter="this.play()" onmouseleave="this.pause()" onerror="nextSrc(this)"></video>`
+    : `<img alt="${(p.subject || "").replace(/_/g, " ")}" data-srcs="${chain}" src="${srcs[0]}" onerror="nextSrc(this)" loading="lazy">`;
+}
+function nextSrc(el) {
+  const list = JSON.parse(el.dataset.srcs || "[]"); const i = list.indexOf(el.getAttribute("src"));
+  if (i >= 0 && i < list.length - 1) el.setAttribute("src", list[i + 1]); else el.outerHTML = `<div class="none">File not on the site yet</div>`;
+}
+
+function card(p) {
+  const latest = p.posts.map(x => x.latest).filter(Boolean);
+  const m = k => latest.length ? fmt(latest.reduce((a, x) => a + (x[k] || 0), 0)) : "·";
+  const pend = PENDING[p.id];
+  const decs = p.approvals.slice(-4).map(a => `<div class="dec"><span class="r">${a.reviewer}</span><span class="v ${a.decision}">${a.decision}</span><span class="t">${day(a.at)}${a.source === "email" ? " by email" : ""}</span>${a.note ? `<span class="note">${esc(a.note)}</span>` : ""}</div>`).join("");
+  const pendHtml = pend ? `<div class="dec"><span class="r">${pend.reviewer}</span><span class="v ${pend.decision}">${pend.decision}</span><span class="t pending">sent, syncing</span></div>` : "";
+  const draft = (p.drafts || [])[0];
+  const status = pend ? (pend.decision === "approve" ? "approved" : pend.decision === "reject" ? "rejected" : "changes") : p.status;
+  const disabled = !WHO ? "disabled" : "";
+  const mailSub = encodeURIComponent(`Renvir ${p.id}`), mailBody = encodeURIComponent(`${p.id}\n\nApproved / Changes / No\n\nNotes:\n`);
+  return `<div class="card" data-id="${p.id}">
+    <div class="media ${p.aspect === "9x16" ? "r916" : ""}"><span class="status ${status}">${status}</span>${mediaTag(p)}</div>
+    <div class="body">
+      <div class="title">${(p.subject || p.id).replace(/_/g, " ")}</div>
+      <div class="meta"><b>${p.week}</b><span>${p.type}</span><span>${p.lane}</span><span>${p.aspect || ""}</span>${p.created ? `<span>${day(p.created)}</span>` : ""}</div>
+      ${p.notes ? `<div class="notes">${esc(p.notes)}</div><span class="more" onclick="this.previousElementSibling.classList.toggle('open');this.textContent=this.textContent==='More'?'Less':'More'">More</span>` : ""}
+      ${p.posts.length ? `<div class="metrics"><div><div class="n">${m("reach")}</div><div class="l">reach</div></div><div><div class="n">${m("views")}</div><div class="l">views</div></div><div><div class="n">${m("saves")}</div><div class="l">saves</div></div><div><div class="n">${m("shares")}</div><div class="l">shares</div></div></div>
+      <div class="plat">${p.posts.map(x => `<a href="${x.permalink || "#"}" target="_blank" rel="noopener">${x.platform}${x.published_at ? " · " + day(x.published_at) : ""}</a>`).join("")}</div>` : ""}
+      ${(decs || pendHtml) ? `<div class="decisions">${decs}${pendHtml}</div>` : ""}
+      <div class="act">
+        ${draft ? `<details class="cap"><summary>Caption, edit if you want</summary><textarea data-cap>${esc(draft.caption || "")}</textarea></details>` : ""}
+        <textarea data-note placeholder="Note, optional"></textarea>
+        <div class="btns">
+          <button class="a" ${disabled} onclick="decide('${p.id}','approve',this)">Approve</button>
+          <button class="c" ${disabled} onclick="decide('${p.id}','changes',this)">Changes</button>
+          <button class="x" ${disabled} onclick="decide('${p.id}','reject',this)">No</button>
+        </div>
+        <div class="mail">Prefer email? <a href="mailto:${MAIL_TO}?subject=${mailSub}&body=${mailBody}">Reply about this piece</a></div>
+      </div>
+    </div>
+  </div>`;
+}
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function renderGrid() {
+  let P = DATA.pieces.filter(p => (WEEK === "all" || p.week === WEEK) && (STATUS === "all" || p.status === STATUS));
+  const order = { review: 0, changes: 1, approved: 2, live: 3, draft: 4, rejected: 5, retired: 6 };
+  P.sort((a, b) => (order[a.status] ?? 9) - (order[b.status] ?? 9) || (b.created || "").localeCompare(a.created || ""));
+  $("#grid").innerHTML = P.map(card).join("");
+  $("#empty").hidden = P.length > 0;
+}
+
+async function decide(id, decision, btn) {
+  if (!WHO) { $("#lock").hidden = false; return; }
+  const c = btn.closest(".card"), note = c.querySelector("[data-note]").value.trim(), capEl = c.querySelector("[data-cap]");
+  const piece = DATA.pieces.find(p => p.id === id), draft = (piece.drafts || [])[0];
+  const payload = {};
+  if (capEl && draft && capEl.value !== (draft.caption || "")) payload.caption = capEl.value;
+  const body = { piece_id: id, reviewer: WHO, decision, note, source: "page", ua: navigator.userAgent, payload: Object.keys(payload).length ? payload : undefined };
+  c.querySelectorAll(".btns button").forEach(b => b.disabled = true);
+  if (!RELAY_URL) {
+    location.href = `mailto:${MAIL_TO}?subject=${encodeURIComponent(`Renvir ${decision.toUpperCase()}: ${id} (${WHO})`)}&body=${encodeURIComponent((note || "") + (payload.caption ? "\n\nEdited caption:\n" + payload.caption : ""))}`;
+    return;
+  }
+  try {
+    await fetch(RELAY_URL, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain" }, body: JSON.stringify(body) });
+    PENDING[id] = { reviewer: WHO, decision, at: new Date().toISOString() };
+    try { localStorage.setItem(pendingKey, JSON.stringify(PENDING)); } catch (e) {}
+    toast(`${decision === "approve" ? "Approved" : decision === "changes" ? "Changes requested" : "Marked no"}. Rob gets an email now.`);
+    renderAll();
+  } catch (e) {
+    toast("Could not reach the relay. Use the email link.");
+    c.querySelectorAll(".btns button").forEach(b => b.disabled = false);
+  }
+}
+
+function clearSyncedPending() {
+  for (const id in PENDING) {
+    const p = DATA.pieces.find(x => x.id === id);
+    if (p && p.approvals.some(a => a.reviewer === PENDING[id].reviewer && new Date(a.at) >= new Date(PENDING[id].at) - 6e4)) delete PENDING[id];
+    else if (Date.now() - new Date(PENDING[id].at) > 3 * 864e5) delete PENDING[id];
+  }
+  try { localStorage.setItem(pendingKey, JSON.stringify(PENDING)); } catch (e) {}
+}
+
+function renderAll() {
+  document.querySelectorAll(".who button").forEach(b => b.classList.toggle("on", b.dataset.w === WHO));
+  $("#lock").hidden = !!WHO;
+  renderStats(); renderBar(); renderGrid();
+}
+
+document.addEventListener("click", e => {
+  const w = e.target.closest(".who button"); if (w) { WHO = w.dataset.w; try { localStorage.setItem("renvir_who", WHO); } catch (x) {} renderAll(); return; }
+  const c = e.target.closest(".chip"); if (c) { if (c.dataset.week) WEEK = c.dataset.week; if (c.dataset.status) STATUS = c.dataset.status; renderAll(); }
+});
+
+fetch(DATA_URL + "?t=" + Date.now()).then(r => r.json()).then(d => { DATA = d; clearSyncedPending(); renderAll(); })
+  .catch(() => { $("#grid").innerHTML = ""; $("#empty").hidden = false; $("#empty").textContent = "data.json is missing. Run sync.py export and push."; });
+</script>
+</body>
+</html>
