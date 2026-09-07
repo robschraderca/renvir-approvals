@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T22:29:09+00:00",
+ "generated_at": "2026-09-07T23:13:34+00:00",
  "pieces": [
   {
    "id": "renvir_W02_reel_high_octane_v26_9x16",
@@ -20,7 +20,15 @@
    "sent_to": "Alex",
    "sent_date": "2026-09-07",
    "notes": "v26 after Alex notes on v22: constant speed pass (O3 clip at one 2x rate), portrait depth of field with the car in the background blur, dust drifts to the end, clear end plate, engine pinned to the crossing frame, Rob read 3 (recording 23) all six lines one take, voice 2.5 dB under; 13 s; -15.5 LUFS peak -4",
-   "approvals": [],
+   "approvals": [
+    {
+     "reviewer": "Rob",
+     "decision": "approve",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-07T18:12:51.243000-05:00"
+    }
+   ],
    "posts": [],
    "drafts": []
   },
