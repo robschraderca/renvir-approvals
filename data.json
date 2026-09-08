@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T02:42:05+00:00",
+ "generated_at": "2026-09-08T05:44:14+00:00",
  "pieces": [
   {
    "id": "renvir_W02_reel_high_octane_v26_9x16",
@@ -15,7 +15,7 @@
    "lane": "paid",
    "look": null,
    "concept": null,
-   "status": "review",
+   "status": "changes",
    "created": "2026-09-07",
    "sent_to": "Alex",
    "sent_date": "2026-09-07",
@@ -27,6 +27,20 @@
      "note": null,
      "source": "page",
      "at": "2026-09-07T18:12:51.243000-05:00"
+    },
+    {
+     "reviewer": "Rob",
+     "decision": "changes",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-07T21:48:38.272000-05:00"
+    },
+    {
+     "reviewer": "Rob",
+     "decision": "changes",
+     "note": "fix it it does not look real",
+     "source": "page",
+     "at": "2026-09-07T21:49:17.863000-05:00"
     }
    ],
    "posts": [],
@@ -293,8 +307,9 @@
  "summary": {
   "pieces": 12,
   "by_status": {
-   "review": 6,
-   "draft": 6
+   "changes": 1,
+   "draft": 6,
+   "review": 5
   },
   "weeks": [
    "W01",
