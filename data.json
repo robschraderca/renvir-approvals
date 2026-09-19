@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-09-09T17:08:48+00:00",
+ "generated_at": "2026-09-19T09:00:46+00:00",
  "pieces": [
+  {
+   "id": "renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16",
+   "week": "W03",
+   "type": "reel",
+   "subject": "neverstop_reinvent",
+   "file": "renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W03 neverstop/reinvent A variant; web encode 6.2 MB, 9.9s.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_reel_neverstop_reinvent_B_bighero_web_9x16",
+   "week": "W03",
+   "type": "reel",
+   "subject": "neverstop_reinvent",
+   "file": "renvir_W03_reel_neverstop_reinvent_B_bighero_web_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_reel_neverstop_reinvent_B_bighero_web_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W03 neverstop/reinvent B variant; web encode 6.2 MB, 9.9s.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W02_cutdown_high_octane_v26_4x5",
    "week": "W02",
@@ -374,15 +420,16 @@
   "facebook": []
  },
  "summary": {
-  "pieces": 15,
+  "pieces": 17,
   "by_status": {
+   "draft": 8,
    "review": 8,
-   "changes": 1,
-   "draft": 6
+   "changes": 1
   },
   "weeks": [
    "W01",
-   "W02"
+   "W02",
+   "W03"
   ]
  }
 }
