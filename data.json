@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T18:29:46+00:00",
+ "generated_at": "2026-09-19T20:57:39+00:00",
  "pieces": [
   {
    "id": "renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16",
@@ -43,6 +43,29 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "W03 neverstop/reinvent B variant; web encode 6.2 MB, 9.9s.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_kit_highoctane_4x5",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_kit_highoctane",
+   "file": "renvir_W03_static_indy_kit_highoctane_4x5.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_kit_highoctane_4x5.jpg",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W03 indy_kit_highoctane, shipped by ship.py",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -899,9 +922,9 @@
   ]
  },
  "summary": {
-  "pieces": 36,
+  "pieces": 37,
   "by_status": {
-   "draft": 27,
+   "draft": 28,
    "review": 8,
    "changes": 1
   },
