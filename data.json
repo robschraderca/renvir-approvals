@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T21:30:57+00:00",
+ "generated_at": "2026-09-19T23:35:18+00:00",
  "pieces": [
   {
    "id": "renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16",
@@ -43,6 +43,52 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "W03 neverstop/reinvent B variant; web encode 6.2 MB, 9.9s.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmet_replaceable_FINAL_4x5",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmet_replaceable",
+   "file": "renvir_W03_static_indy_helmet_replaceable_FINAL_4x5.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmet_replaceable_FINAL_4x5.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Locked by Rob Sept 19. Helmet decal carries the registered mark, real carbon plate at 35 percent under the black. 4x5 is the feed post, 9x16 is the story.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmet_replaceable_FINAL_9x16",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmet_replaceable",
+   "file": "renvir_W03_static_indy_helmet_replaceable_FINAL_9x16.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmet_replaceable_FINAL_9x16.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Locked by Rob Sept 19. Helmet decal carries the registered mark, real carbon plate at 35 percent under the black. 4x5 is the feed post, 9x16 is the story.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -953,9 +999,10 @@
   ]
  },
  "summary": {
-  "pieces": 38,
+  "pieces": 40,
   "by_status": {
    "draft": 29,
+   "approved": 2,
    "review": 8,
    "changes": 1
   },
