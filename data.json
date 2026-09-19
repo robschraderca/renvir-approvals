@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T20:57:39+00:00",
+ "generated_at": "2026-09-19T21:02:59+00:00",
  "pieces": [
   {
    "id": "renvir_W03_reel_neverstop_reinvent_A_equal_web_9x16",
@@ -58,6 +58,29 @@
    "real_or_ai": "ai",
    "ai_people": false,
    "aspect": "4x5",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-19",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W03 indy_kit_highoctane, shipped by ship.py",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_kit_highoctane_9x16",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_kit_highoctane",
+   "file": "renvir_W03_static_indy_kit_highoctane_9x16.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_kit_highoctane_9x16.jpg",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
    "lane": "paid",
    "look": null,
    "concept": null,
@@ -922,9 +945,9 @@
   ]
  },
  "summary": {
-  "pieces": 37,
+  "pieces": 38,
   "by_status": {
-   "draft": 28,
+   "draft": 29,
    "review": 8,
    "changes": 1
   },
