@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:30:24+00:00",
+ "generated_at": "2026-09-20T19:30:27+00:00",
  "pieces": [
   {
    "id": "renvir_W03_static_indy_helmetcomesoff_01_4x5",
@@ -31,6 +31,29 @@
    "subject": "indy_helmetcomesoff",
    "file": "renvir_W03_static_indy_helmetcomesoff_02_4x5.jpg",
    "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmetcomesoff_02_4x5.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-20",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W03 indy_helmetcomesoff, shipped by ship.py",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmetcomesoff_03_4x5",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmetcomesoff",
+   "file": "renvir_W03_static_indy_helmetcomesoff_03_4x5.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmetcomesoff_03_4x5.jpg",
    "thumb_url": null,
    "real_or_ai": "real",
    "ai_people": false,
@@ -1101,9 +1124,9 @@
   ]
  },
  "summary": {
-  "pieces": 42,
+  "pieces": 43,
   "by_status": {
-   "draft": 31,
+   "draft": 32,
    "approved": 2,
    "review": 8,
    "changes": 1
