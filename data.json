@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T19:30:27+00:00",
+ "generated_at": "2026-09-20T21:38:35+00:00",
  "pieces": [
   {
    "id": "renvir_W03_static_indy_helmetcomesoff_01_4x5",
@@ -17,9 +17,32 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-20",
+   "sent_to": "IG feed + FB Page",
+   "sent_date": "2026-09-20",
+   "notes": "LIVE https://www.instagram.com/p/DdhV8knjAQf/ ; also on the Renvir FB Page, native caption. story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; 9x16 sibling held for stories",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmetcomesoff_01_9x16",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmetcomesoff_01",
+   "file": "renvir_W03_static_indy_helmetcomesoff_01_9x16.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmetcomesoff_01_9x16.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-20",
    "sent_to": null,
    "sent_date": null,
-   "notes": "W03 indy_helmetcomesoff, shipped by ship.py",
+   "notes": "story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; for stories, posted from the phone so the mention stickers survive",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -40,9 +63,32 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-20",
+   "sent_to": "IG feed + FB Page",
+   "sent_date": "2026-09-20",
+   "notes": "LIVE https://www.instagram.com/p/DdhWEI2jIP1/ ; also on the Renvir FB Page, native caption. story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; 9x16 sibling held for stories",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmetcomesoff_02_9x16",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmetcomesoff_02",
+   "file": "renvir_W03_static_indy_helmetcomesoff_02_9x16.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmetcomesoff_02_9x16.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-20",
    "sent_to": null,
    "sent_date": null,
-   "notes": "W03 indy_helmetcomesoff, shipped by ship.py",
+   "notes": "story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; for stories, posted from the phone so the mention stickers survive",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -63,9 +109,32 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-20",
+   "sent_to": "IG feed + FB Page",
+   "sent_date": "2026-09-20",
+   "notes": "LIVE https://www.instagram.com/p/DdhWFRfjFl6/ ; also on the Renvir FB Page, native caption. story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; 9x16 sibling held for stories",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W03_static_indy_helmetcomesoff_03_9x16",
+   "week": "W03",
+   "type": "static",
+   "subject": "indy_helmetcomesoff_03",
+   "file": "renvir_W03_static_indy_helmetcomesoff_03_9x16.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W03_static_indy_helmetcomesoff_03_9x16.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-20",
    "sent_to": null,
    "sent_date": null,
-   "notes": "W03 indy_helmetcomesoff, shipped by ship.py",
+   "notes": "story set 'the helmet comes off', posted in order 01 02 03; both aspects; real pixels from ray_indy_sep19; title safe and WCAG contrast asserted at build; Sabelt patch excluded by assertion; for stories, posted from the phone so the mention stickers survive",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1066,6 +1135,10 @@
    {
     "at": "2026-09-20T13:36:47.033893-05:00",
     "followers": 206
+   },
+   {
+    "at": "2026-09-20T16:37:48.216252-05:00",
+    "followers": 207
    }
   ],
   "facebook": [
@@ -1120,13 +1193,17 @@
    {
     "at": "2026-09-20T13:36:47.739465-05:00",
     "followers": 22
+   },
+   {
+    "at": "2026-09-20T16:37:48.668272-05:00",
+    "followers": 22
    }
   ]
  },
  "summary": {
-  "pieces": 43,
+  "pieces": 46,
   "by_status": {
-   "draft": 32,
+   "draft": 35,
    "approved": 2,
    "review": 8,
    "changes": 1
