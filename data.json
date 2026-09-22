@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T21:23:32+00:00",
+ "generated_at": "2026-09-22T21:57:10+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_indy_bricks_4x5",
@@ -17,9 +17,9 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-22",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Indy quick cut, 10.4s, cut to the Suno grid, helmet opens as the cover. For Ray's approval, Sept 22.",
+   "sent_to": "Ray, email",
+   "sent_date": "2026-09-22",
+   "notes": "feed sibling of the 9x16 quick cut, v5, with bed and cover JPG; shipped to the approvals board and emailed to Ray for approval 2026-09-22 (Gmail thread 1a0cb0238055114d); awaiting Ray",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -40,9 +40,9 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-22",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Indy quick cut, 10.4s, cut to the Suno grid, helmet opens as the cover. For Ray's approval, Sept 22.",
+   "sent_to": "Ray, email",
+   "sent_date": "2026-09-22",
+   "notes": "Indy quick cut v5, 10.4s, cut to the 150 BPM grid of Suno Indy take1 (bed from 107.775, minus 15.0 LUFS, peak minus 4.4). Opens on the helmet with RENVIR on the shell as the thumbnail per Ray. Twelve 0.4s hits, pickup hold 2.4s, card on the downbeat at 8.0, HIGH OCTANE. then LOW MAINTENANCE. on beats. Cover JPG exported both aspects. Lamborghini Palm Beach roof text (shot 2) and Sabelt patch (shot 4) flagged to Rob. No wordmark on footage, Rob override. v1 to v4 in _ARCHIVE. shipped to the approvals board and emailed to Ray for approval 2026-09-22 (Gmail thread 1a0cb0238055114d); awaiting Ray",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1245,6 +1245,10 @@
    {
     "at": "2026-09-22T13:55:39.326271-05:00",
     "followers": 211
+   },
+   {
+    "at": "2026-09-22T16:56:27.929241-05:00",
+    "followers": 211
    }
   ],
   "facebook": [
@@ -1362,6 +1366,10 @@
    },
    {
     "at": "2026-09-22T13:55:39.756235-05:00",
+    "followers": 23
+   },
+   {
+    "at": "2026-09-22T16:56:28.326447-05:00",
     "followers": 23
    }
   ]
