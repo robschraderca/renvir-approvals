@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T22:38:12+00:00",
+ "generated_at": "2026-09-23T00:58:11+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_indy_bricks_4x5",
@@ -17,9 +17,9 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-22",
-   "sent_to": "Ray, email",
+   "sent_to": "IG Reel + FB Page video",
    "sent_date": "2026-09-22",
-   "notes": "v9, Rob approved Sept 22 night: quick cut to the Suno grid, helmet cover, card hits, clean mark aligned.",
+   "notes": "LIVE 2026-09-22 19:00 local (00:02 UTC Sept 23). Instagram Reel https://www.instagram.com/reel/Ddm-anHDZ8G/ published from this Mac via publish_meta.py, cover = helmet, caption read back and matches cap_ig.txt. Facebook Page video https://www.facebook.com/reel/1647200180357089/ scheduled natively, caption matches cap_fb.txt. v9 quick cut, Suno bed. Also emailed to Ray for approval earlier the same day.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -42,7 +42,7 @@
    "created": "2026-09-22",
    "sent_to": "Ray, email",
    "sent_date": "2026-09-22",
-   "notes": "v9, Rob approved Sept 22 night: quick cut to the Suno grid, helmet cover, card hits, clean mark aligned.",
+   "notes": "Indy quick cut v9, 11.2s (mark moved 7px right to share the headline ink edge, measured, Rob Sept 22) (endcard rebuilt from the clean Sept 2 master, no shadow, R set in Inter, Rob Sept 22) (seven bars, card holds one bar longer, one bar music fade, Rob Sept 22), cut to the 150 BPM grid of Suno Indy take1 (bed from 107.775, minus 15 LUFS). Opens on the helmet with RENVIR on the shell as the thumbnail per Ray. Twelve 0.4s hits, pickup hold 2.4s, then per Ray via Rob: two frame white flash on the downbeat at 8.0, card hard in with RENVIR registered, HIGH OCTANE. at 8.4, LOW MAINTENANCE. at 8.8. Cover JPG both aspects. Lamborghini Palm Beach roof text (shot 2) and Sabelt patch (shot 4) flagged. No wordmark on footage, Rob override. v1 to v8 in _ARCHIVE. v5 shipped to the board and emailed to Ray 2026-09-22 (thread 1a0cb0238055114d); v6 built after Ray's note, board not yet replaced",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1249,6 +1249,10 @@
    {
     "at": "2026-09-22T16:56:27.929241-05:00",
     "followers": 211
+   },
+   {
+    "at": "2026-09-22T19:57:26.737169-05:00",
+    "followers": 212
    }
   ],
   "facebook": [
@@ -1370,6 +1374,10 @@
    },
    {
     "at": "2026-09-22T16:56:28.326447-05:00",
+    "followers": 23
+   },
+   {
+    "at": "2026-09-22T19:57:27.184254-05:00",
     "followers": 23
    }
   ]
