@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T00:58:11+00:00",
+ "generated_at": "2026-09-23T03:59:08+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_indy_bricks_4x5",
@@ -43,6 +43,52 @@
    "sent_to": "Ray, email",
    "sent_date": "2026-09-22",
    "notes": "Indy quick cut v9, 11.2s (mark moved 7px right to share the headline ink edge, measured, Rob Sept 22) (endcard rebuilt from the clean Sept 2 master, no shadow, R set in Inter, Rob Sept 22) (seven bars, card holds one bar longer, one bar music fade, Rob Sept 22), cut to the 150 BPM grid of Suno Indy take1 (bed from 107.775, minus 15 LUFS). Opens on the helmet with RENVIR on the shell as the thumbnail per Ray. Twelve 0.4s hits, pickup hold 2.4s, then per Ray via Rob: two frame white flash on the downbeat at 8.0, card hard in with RENVIR registered, HIGH OCTANE. at 8.4, LOW MAINTENANCE. at 8.8. Cover JPG both aspects. Lamborghini Palm Beach roof text (shot 2) and Sabelt patch (shot 4) flagged. No wordmark on footage, Rob override. v1 to v8 in _ARCHIVE. v5 shipped to the board and emailed to Ray 2026-09-22 (thread 1a0cb0238055114d); v6 built after Ray's note, board not yet replaced",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W04_reel_the_kit_4x5",
+   "week": "W04",
+   "type": "reel",
+   "subject": "the_kit",
+   "file": "renvir_W04_reel_the_kit_4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_the_kit_4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-22",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "REJECTED by Rob, Sept 22 2026 night: too much information, boring, no reason to stay on it. Needs animated b roll, the product doing something, not packshots with names over them. Not deleted, not shipped, never published. Diagnosis and the shot list to get there: 00_ADMIN/renvir-stories-craft-gap-sep22.md. Revisit Sept 23. feed sibling of THE KIT 9x16, same definition; NOT SHIPPED, awaiting Rob",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W04_reel_the_kit_9x16",
+   "week": "W04",
+   "type": "reel",
+   "subject": "the_kit",
+   "file": "renvir_W04_reel_the_kit_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_the_kit_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-22",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "REJECTED by Rob, Sept 22 2026 night: too much information, boring, no reason to stay on it. Needs animated b roll, the product doing something, not packshots with names over them. Not deleted, not shipped, never published. Diagnosis and the shot list to get there: 00_ADMIN/renvir-stories-craft-gap-sep22.md. Revisit Sept 23. THE KIT, 13.2s studio story built Sept 22 night as the counterpoint to the Indy quick cut: four packshots from Ray's Aug 7 shoot (group1, Alpha Detox 00018b, Citrus Revive 00063, Supercharger 00039b) cut out on near black, slow push via still_to_shot.py, HOLD tier, Suno warm pads bed at minus 15 LUFS, product name with TM over its role, card with Alex's line Skincare that keeps up. and the registered mark. No people, no marks, nothing generated. Brand on the card only per tonight's precedent. Cover JPG both aspects. Spec reel_engine src/reels/the_kit.tsx. NOT SHIPPED, awaiting Rob",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1253,6 +1299,10 @@
    {
     "at": "2026-09-22T19:57:26.737169-05:00",
     "followers": 212
+   },
+   {
+    "at": "2026-09-22T22:58:21.651273-05:00",
+    "followers": 212
    }
   ],
   "facebook": [
@@ -1379,13 +1429,17 @@
    {
     "at": "2026-09-22T19:57:27.184254-05:00",
     "followers": 23
+   },
+   {
+    "at": "2026-09-22T22:58:22.115393-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 48,
+  "pieces": 50,
   "by_status": {
-   "draft": 37,
+   "draft": 39,
    "approved": 2,
    "review": 8,
    "changes": 1
