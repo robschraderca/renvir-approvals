@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-09-23T13:02:25+00:00",
+ "generated_at": "2026-09-23T15:46:02+00:00",
  "pieces": [
+  {
+   "id": "renvir_W04_reel_neverstop_reinvent_4x5",
+   "week": "W04",
+   "type": "reel",
+   "subject": "neverstop_reinvent",
+   "file": "renvir_W04_reel_neverstop_reinvent_4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_neverstop_reinvent_4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-23",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W04 neverstop_reinvent, shipped by ship.py",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W04_reel_neverstop_reinvent_9x16",
+   "week": "W04",
+   "type": "reel",
+   "subject": "neverstop_reinvent",
+   "file": "renvir_W04_reel_neverstop_reinvent_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_neverstop_reinvent_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-23",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W04 neverstop_reinvent, shipped by ship.py",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W04_reel_indy_bricks_4x5",
    "week": "W04",
@@ -1461,9 +1507,9 @@
   ]
  },
  "summary": {
-  "pieces": 50,
+  "pieces": 52,
   "by_status": {
-   "draft": 39,
+   "draft": 41,
    "approved": 2,
    "review": 8,
    "changes": 1
