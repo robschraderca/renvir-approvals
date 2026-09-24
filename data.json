@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T01:06:45+00:00",
+ "generated_at": "2026-09-24T04:08:30+00:00",
  "pieces": [
   {
    "id": "renvir_W04_cover_supercharger_story_4x5",
@@ -109,9 +109,9 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-23",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "20.0 s SMASH, 50 shots, 174.01 BPM Suno bed, card to renvirco.com/supercharger. Spends the one in ten SMASH allowance for W04. Driver in the cockpit shots is Cooper Broll, confirmed by Rob Sept 23; used on his clearance, likeness still not in writing.",
+   "sent_to": "FB Page reel",
+   "sent_date": "2026-09-23",
+   "notes": "20.0 s SMASH, 50 shots, 174.01 BPM Suno bed, card to renvirco.com/supercharger. Spends the one in ten SMASH allowance for W04. Driver in the cockpit shots is Cooper Broll, confirmed by Rob Sept 23; used on his clearance, likeness still not in writing. FACEBOOK SCHEDULED 2026-09-23 20:45 local (21:45 ET) via publish_meta.py, post https://www.facebook.com/994214540355690, cover 4x5, caption_fb_supercharger_story.txt. Instagram Reel goes from Rob phone as 9x16 so the Collab invite can be attached. LIVE 2026-09-23 20:45 local (01:45 UTC Sept 24) https://www.facebook.com/reel/994214540355690/ fired on schedule. Facebook published the 4:5 as a Reel rather than a feed video. No duplicate: the Instagram share to Facebook toggle was off.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -132,9 +132,9 @@
    "concept": null,
    "status": "draft",
    "created": "2026-09-23",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "20.0 s SMASH, 50 shots, 174.01 BPM Suno bed, card to renvirco.com/supercharger. Spends the one in ten SMASH allowance for W04. Driver in the cockpit shots is Cooper Broll, confirmed by Rob Sept 23; used on his clearance, likeness still not in writing.",
+   "sent_to": "IG Reel",
+   "sent_date": "2026-09-23",
+   "notes": "20.0 s SMASH, 50 shots, 174.01 BPM Suno bed, card to renvirco.com/supercharger. Spends the one in ten SMASH allowance for W04. Driver in the cockpit shots is Cooper Broll, confirmed by Rob Sept 23; used on his clearance, likeness still not in writing. LIVE 2026-09-23 20:49 local (01:49 UTC Sept 24) https://www.instagram.com/reel/DdpvegzSArp/ posted from Rob phone so the Collab invite could be attached. Caption as written except the fifth tag went out as #indianapolismotorspeedway rather than #indianapolis, autocomplete.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1538,6 +1538,10 @@
    {
     "at": "2026-09-23T20:05:59.179594-05:00",
     "followers": 213
+   },
+   {
+    "at": "2026-09-23T23:07:42.052076-05:00",
+    "followers": 214
    }
   ],
   "facebook": [
@@ -1695,6 +1699,10 @@
    },
    {
     "at": "2026-09-23T20:05:59.574935-05:00",
+    "followers": 24
+   },
+   {
+    "at": "2026-09-23T23:07:42.487316-05:00",
     "followers": 24
    }
   ]
