@@ -121,6 +121,8 @@ const fmt = n => n == null ? "·" : n >= 10000 ? (n/1000).toFixed(1).replace(/\.
 const ago = iso => { const d = (Date.now() - new Date(iso)) / 36e5; return d < 1 ? "just now" : d < 24 ? Math.round(d) + "h ago" : Math.round(d/24) + "d ago"; };
 const day = iso => iso ? new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric" }) : "";
 let DATA = null, WEEK = "all", STATUS = "all", WHO = null;
+// ?piece=<id> shows that one piece alone, for a single approval link (Sept 28 2026)
+const ONLY = new URLSearchParams(location.search).get("piece");
 try { WHO = localStorage.getItem("renvir_who"); } catch (e) {}
 const pendingKey = "renvir_pending";
 let PENDING = {}; try { PENDING = JSON.parse(localStorage.getItem(pendingKey) || "{}"); } catch (e) {}
@@ -215,7 +217,7 @@ function card(p) {
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
 
 function renderGrid() {
-  let P = DATA.pieces.filter(p => (WEEK === "all" || p.week === WEEK) && (STATUS === "all" || p.status === STATUS));
+  let P = ONLY ? DATA.pieces.filter(p => p.id === ONLY) : DATA.pieces.filter(p => (WEEK === "all" || p.week === WEEK) && (STATUS === "all" || p.status === STATUS));
   const order = { review: 0, changes: 1, approved: 2, live: 3, draft: 4, rejected: 5, retired: 6 };
   P.sort((a, b) => (order[a.status] ?? 9) - (order[b.status] ?? 9) || (b.created || "").localeCompare(a.created || ""));
   $("#grid").innerHTML = P.map(card).join("");
@@ -258,6 +260,7 @@ function clearSyncedPending() {
 function renderAll() {
   document.querySelectorAll(".who button").forEach(b => b.classList.toggle("on", b.dataset.w === WHO));
   $("#lock").hidden = !!WHO;
+  if (ONLY) { document.querySelectorAll("#stats,#bar,.stats,.bar").forEach(el => el.hidden = true); renderGrid(); return; }
   renderStats(); renderBar(); renderGrid();
 }
 
