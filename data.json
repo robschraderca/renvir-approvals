@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T11:51:36+00:00",
+ "generated_at": "2026-09-28T14:52:31+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_neverstop_garrett_chris_v17_9x16",
@@ -15,12 +15,20 @@
    "lane": "paid",
    "look": null,
    "concept": null,
-   "status": "draft",
+   "status": "rejected",
    "created": "2026-09-27",
    "sent_to": null,
    "sent_date": null,
    "notes": "Never Stop UGC test with Garrett, Chris voice. Rough: audio still being tuned. Alpha Detox.",
-   "approvals": [],
+   "approvals": [
+    {
+     "reviewer": "Alex",
+     "decision": "reject",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-28T07:48:32.341000-05:00"
+    }
+   ],
    "posts": [],
    "drafts": []
   },
@@ -112,7 +120,15 @@
    "sent_to": "IG Reel",
    "sent_date": "2026-09-23",
    "notes": null,
-   "approvals": [],
+   "approvals": [
+    {
+     "reviewer": "Alex",
+     "decision": "approve",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-28T07:48:58.541000-05:00"
+    }
+   ],
    "posts": [
     {
      "platform": "instagram",
@@ -121,9 +137,9 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T06:51:26.736212-05:00",
-      "reach": 37,
-      "views": 58,
+      "at": "2026-09-28T09:52:27.841270-05:00",
+      "reach": 38,
+      "views": 60,
       "likes": 4,
       "comments": 0,
       "saves": 0,
@@ -612,6 +628,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:27.841270-05:00",
+       "reach": 38,
+       "views": 60,
+       "likes": 4,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -669,9 +697,9 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T06:51:29.989853-05:00",
+      "at": "2026-09-28T09:52:26.772536-05:00",
       "reach": 182,
-      "views": 273,
+      "views": 274,
       "likes": 14,
       "comments": 1,
       "saves": 0,
@@ -1112,6 +1140,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:26.772536-05:00",
+       "reach": 182,
+       "views": 274,
+       "likes": 14,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1206,7 +1246,15 @@
    "sent_to": "IG Reel + FB Page video",
    "sent_date": "2026-09-22",
    "notes": "LIVE 2026-09-22 19:00 local (00:02 UTC Sept 23). Instagram Reel https://www.instagram.com/reel/Ddm-anHDZ8G/ published from this Mac via publish_meta.py, cover = helmet, caption read back and matches cap_ig.txt. Facebook Page video https://www.facebook.com/reel/1647200180357089/ scheduled natively, caption matches cap_fb.txt. v9 quick cut, Suno bed. Also emailed to Ray for approval earlier the same day.",
-   "approvals": [],
+   "approvals": [
+    {
+     "reviewer": "Alex",
+     "decision": "approve",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-28T07:48:37.840000-05:00"
+    }
+   ],
    "posts": [
     {
      "platform": "instagram",
@@ -1215,9 +1263,9 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T06:51:28.235316-05:00",
-      "reach": 112,
-      "views": 174,
+      "at": "2026-09-28T09:52:21.970517-05:00",
+      "reach": 113,
+      "views": 176,
       "likes": 14,
       "comments": 0,
       "saves": 0,
@@ -1766,6 +1814,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:21.970517-05:00",
+       "reach": 113,
+       "views": 176,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1869,7 +1929,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T06:51:33.872151-05:00",
+      "at": "2026-09-28T09:52:29.566538-05:00",
       "reach": 54,
       "views": 91,
       "likes": 8,
@@ -2624,6 +2684,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:29.566538-05:00",
+       "reach": 54,
+       "views": 91,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -2681,7 +2753,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T06:51:33.253361-05:00",
+      "at": "2026-09-28T09:52:28.498717-05:00",
       "reach": 32,
       "views": 65,
       "likes": 7,
@@ -3436,6 +3508,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:28.498717-05:00",
+       "reach": 32,
+       "views": 65,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -3493,7 +3577,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T06:51:10.894768-05:00",
+      "at": "2026-09-28T09:52:05.560223-05:00",
       "reach": 32,
       "views": 52,
       "likes": 6,
@@ -4248,6 +4332,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:05.560223-05:00",
+       "reach": 32,
+       "views": 52,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -4351,7 +4447,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T06:51:34.436682-05:00",
+      "at": "2026-09-28T09:52:30.189691-05:00",
       "reach": 277,
       "views": 445,
       "likes": 12,
@@ -5181,6 +5277,18 @@
       },
       {
        "at": "2026-09-28T06:51:34.436682-05:00",
+       "reach": 277,
+       "views": 445,
+       "likes": 12,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T09:52:30.189691-05:00",
        "reach": 277,
        "views": 445,
        "likes": 12,
@@ -6371,6 +6479,10 @@
    {
     "at": "2026-09-28T06:50:52.904685-05:00",
     "followers": 219
+   },
+   {
+    "at": "2026-09-28T09:51:45.017358-05:00",
+    "followers": 219
    }
   ],
   "facebook": [
@@ -6673,13 +6785,18 @@
    {
     "at": "2026-09-28T06:50:53.621298-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-09-28T09:51:45.563785-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
   "pieces": 60,
   "by_status": {
-   "draft": 43,
+   "rejected": 1,
+   "draft": 42,
    "live": 7,
    "approved": 1,
    "review": 8,
