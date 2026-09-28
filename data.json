@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T19:02:54+00:00",
+ "generated_at": "2026-09-28T20:54:42+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_neverstop_garrett_chris_v23_9x16",
@@ -20,7 +20,15 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "Never Stop UGC, Garrett, Chris voice, 23 s. Rob's pick. Needs the AI disclosure (label, caption line, on screen line) before it posts.",
-   "approvals": [],
+   "approvals": [
+    {
+     "reviewer": "Rob",
+     "decision": "approve",
+     "note": null,
+     "source": "page",
+     "at": "2026-09-28T14:05:39.906000-05:00"
+    }
+   ],
    "posts": [],
    "drafts": []
   },
@@ -160,9 +168,9 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T12:53:23.387345-05:00",
+      "at": "2026-09-28T15:54:31.455642-05:00",
       "reach": 39,
-      "views": 62,
+      "views": 63,
       "likes": 5,
       "comments": 0,
       "saves": 0,
@@ -675,6 +683,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:31.455642-05:00",
+       "reach": 39,
+       "views": 63,
+       "likes": 5,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -732,9 +752,9 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T12:53:21.137244-05:00",
-      "reach": 182,
-      "views": 275,
+      "at": "2026-09-28T15:54:38.088562-05:00",
+      "reach": 185,
+      "views": 283,
       "likes": 14,
       "comments": 1,
       "saves": 0,
@@ -1199,6 +1219,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:38.088562-05:00",
+       "reach": 185,
+       "views": 283,
+       "likes": 14,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1310,7 +1342,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T12:53:24.652562-05:00",
+      "at": "2026-09-28T15:54:32.801729-05:00",
       "reach": 113,
       "views": 176,
       "likes": 14,
@@ -1885,6 +1917,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:32.801729-05:00",
+       "reach": 113,
+       "views": 176,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1988,9 +2032,9 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T12:53:31.275582-05:00",
+      "at": "2026-09-28T15:54:40.110428-05:00",
       "reach": 54,
-      "views": 91,
+      "views": 92,
       "likes": 8,
       "comments": 2,
       "saves": 0,
@@ -2767,6 +2811,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:40.110428-05:00",
+       "reach": 54,
+       "views": 92,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -2824,9 +2880,9 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T12:53:30.346070-05:00",
+      "at": "2026-09-28T15:54:39.208194-05:00",
       "reach": 32,
-      "views": 65,
+      "views": 66,
       "likes": 7,
       "comments": 0,
       "saves": 0,
@@ -3603,6 +3659,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:39.208194-05:00",
+       "reach": 32,
+       "views": 66,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -3660,9 +3728,9 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T12:53:14.656087-05:00",
+      "at": "2026-09-28T15:54:06.209332-05:00",
       "reach": 32,
-      "views": 52,
+      "views": 53,
       "likes": 6,
       "comments": 0,
       "saves": 0,
@@ -4439,6 +4507,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:06.209332-05:00",
+       "reach": 32,
+       "views": 53,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -4542,7 +4622,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T12:53:26.913689-05:00",
+      "at": "2026-09-28T15:54:40.813601-05:00",
       "reach": 277,
       "views": 445,
       "likes": 12,
@@ -5396,6 +5476,18 @@
       },
       {
        "at": "2026-09-28T12:53:26.913689-05:00",
+       "reach": 277,
+       "views": 445,
+       "likes": 12,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T15:54:40.813601-05:00",
        "reach": 277,
        "views": 445,
        "likes": 12,
@@ -6594,6 +6686,10 @@
    {
     "at": "2026-09-28T12:52:42.027844-05:00",
     "followers": 219
+   },
+   {
+    "at": "2026-09-28T15:53:43.685248-05:00",
+    "followers": 219
    }
   ],
   "facebook": [
@@ -6903,6 +6999,10 @@
    },
    {
     "at": "2026-09-28T12:52:43.231510-05:00",
+    "followers": 24
+   },
+   {
+    "at": "2026-09-28T15:53:44.608146-05:00",
     "followers": 24
    }
   ]
