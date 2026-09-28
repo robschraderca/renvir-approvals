@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T20:54:42+00:00",
+ "generated_at": "2026-09-28T23:55:40+00:00",
  "pieces": [
   {
    "id": "renvir_W04_reel_neverstop_garrett_chris_v23_9x16",
@@ -29,6 +29,75 @@
      "at": "2026-09-28T14:05:39.906000-05:00"
     }
    ],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_fbcover_2B_SHIP_1640x624",
+   "week": "W05",
+   "type": "cover",
+   "subject": "fb_cover_newman",
+   "file": "renvir_W05_fbcover_2B_SHIP_1640x624.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_fbcover_2B_SHIP_1640x624.jpg",
+   "thumb_url": null,
+   "real_or_ai": "",
+   "ai_people": false,
+   "aspect": "1640x624",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-09-28",
+   "sent_to": "Facebook Page cover",
+   "sent_date": "2026-09-28",
+   "notes": "LIVE 2026-09-28. Page 846410838559033 Renvir Men's Skincare, cover_id 122146735947103642, set via 00_ADMIN/tools/meta/set_page_cover.py, no_feed_story=true so no feed post. Composite: real product cutouts (alphadetox/citrus/supercharger _ray) over a supplied photograph of a man, backdrop derived from that photograph. Wordmark white + registered R + NEVER STOP(TM) as live type. real_or_ai NOT set: the man is not generated here but his provenance and licence are unconfirmed, needs Rob.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_fbcover_2B_v2_SHIP_1640x624",
+   "week": "W05",
+   "type": "cover",
+   "subject": "fb_cover_newman",
+   "file": "renvir_W05_fbcover_2B_v2_SHIP_1640x624.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_fbcover_2B_v2_SHIP_1640x624.jpg",
+   "thumb_url": null,
+   "real_or_ai": "",
+   "ai_people": false,
+   "aspect": "1640x624",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-09-28",
+   "sent_to": "Facebook Page cover",
+   "sent_date": "2026-09-28",
+   "notes": "LIVE 2026-09-28, replaces the v1 cover set earlier the same day. cover_id 122146736541103642. v1 was cut on mobile: wordmark and NEVER STOP sat at x300 and x302, only 35px inside a CALCULATED safe edge of 265 that turned out to be wrong. v2 pulls all content to x423-1259, centred on 841, and holds intact down to a centre-800 crop (verified in CROPTEST_v2.jpg). real_or_ai still unset.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_fbcover_2B_v3_SHIP_1640x624",
+   "week": "W05",
+   "type": "cover",
+   "subject": "fb_cover_newman",
+   "file": "renvir_W05_fbcover_2B_v3_SHIP_1640x624.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_fbcover_2B_v3_SHIP_1640x624.jpg",
+   "thumb_url": null,
+   "real_or_ai": "",
+   "ai_people": false,
+   "aspect": "1640x624",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-09-28",
+   "sent_to": "Facebook Page cover",
+   "sent_date": "2026-09-28",
+   "notes": "LIVE 2026-09-28, third and final version of the day, cover_id 122146737549103642. Rob chose mobile first over desktop weight. All type and all three jars sit in the measured clear left column x321-631 below y254. v1 and v2 superseded and kept. real_or_ai still unset.",
+   "approvals": [],
    "posts": [],
    "drafts": []
   },
@@ -168,7 +237,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T15:54:31.455642-05:00",
+      "at": "2026-09-28T18:55:37.589763-05:00",
       "reach": 39,
       "views": 63,
       "likes": 5,
@@ -695,6 +764,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:37.589763-05:00",
+       "reach": 39,
+       "views": 63,
+       "likes": 5,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -752,8 +833,8 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T15:54:38.088562-05:00",
-      "reach": 185,
+      "at": "2026-09-28T18:55:34.990346-05:00",
+      "reach": 186,
       "views": 283,
       "likes": 14,
       "comments": 1,
@@ -1231,6 +1312,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:34.990346-05:00",
+       "reach": 186,
+       "views": 283,
+       "likes": 14,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1342,7 +1435,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-28T15:54:32.801729-05:00",
+      "at": "2026-09-28T18:55:32.167731-05:00",
       "reach": 113,
       "views": 176,
       "likes": 14,
@@ -1929,6 +2022,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:32.167731-05:00",
+       "reach": 113,
+       "views": 176,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -2032,7 +2137,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T15:54:40.110428-05:00",
+      "at": "2026-09-28T18:55:39.427516-05:00",
       "reach": 54,
       "views": 92,
       "likes": 8,
@@ -2823,6 +2928,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:39.427516-05:00",
+       "reach": 54,
+       "views": 92,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -2880,7 +2997,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T15:54:39.208194-05:00",
+      "at": "2026-09-28T18:55:38.775657-05:00",
       "reach": 32,
       "views": 66,
       "likes": 7,
@@ -3671,6 +3788,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:38.775657-05:00",
+       "reach": 32,
+       "views": 66,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -3728,7 +3857,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T15:54:06.209332-05:00",
+      "at": "2026-09-28T18:55:11.979860-05:00",
       "reach": 32,
       "views": 53,
       "likes": 6,
@@ -4519,6 +4648,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:11.979860-05:00",
+       "reach": 32,
+       "views": 53,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -4622,7 +4763,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-28T15:54:40.813601-05:00",
+      "at": "2026-09-28T18:55:39.933461-05:00",
       "reach": 277,
       "views": 445,
       "likes": 12,
@@ -5488,6 +5629,18 @@
       },
       {
        "at": "2026-09-28T15:54:40.813601-05:00",
+       "reach": 277,
+       "views": 445,
+       "likes": 12,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-09-28T18:55:39.933461-05:00",
        "reach": 277,
        "views": 445,
        "likes": 12,
@@ -6690,6 +6843,10 @@
    {
     "at": "2026-09-28T15:53:43.685248-05:00",
     "followers": 219
+   },
+   {
+    "at": "2026-09-28T18:54:53.741873-05:00",
+    "followers": 219
    }
   ],
   "facebook": [
@@ -7004,13 +7161,17 @@
    {
     "at": "2026-09-28T15:53:44.608146-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-09-28T18:54:54.143269-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 61,
+  "pieces": 64,
   "by_status": {
-   "review": 9,
+   "review": 12,
    "rejected": 1,
    "draft": 42,
    "live": 7,
@@ -7021,7 +7182,8 @@
    "W01",
    "W02",
    "W03",
-   "W04"
+   "W04",
+   "W05"
   ]
  }
 }
