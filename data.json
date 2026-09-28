@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-09-28T17:53:31+00:00",
+ "generated_at": "2026-09-28T19:02:54+00:00",
  "pieces": [
+  {
+   "id": "renvir_W04_reel_neverstop_garrett_chris_v23_9x16",
+   "week": "W04",
+   "type": "reel",
+   "subject": "neverstop_garrett_ugc",
+   "file": "renvir_W04_reel_neverstop_garrett_chris_v23_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_neverstop_garrett_chris_v23_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-09-28",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Never Stop UGC, Garrett, Chris voice, 23 s. Rob's pick. Needs the AI disclosure (label, caption line, on screen line) before it posts.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W04_reel_neverstop_garrett_chris_v17_9x16",
    "week": "W04",
@@ -6885,13 +6908,13 @@
   ]
  },
  "summary": {
-  "pieces": 60,
+  "pieces": 61,
   "by_status": {
+   "review": 9,
    "rejected": 1,
    "draft": 42,
    "live": 7,
    "approved": 1,
-   "review": 8,
    "changes": 1
   },
   "weeks": [
