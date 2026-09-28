@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-09-28T02:49:00+00:00",
+ "generated_at": "2026-09-28T03:00:04+00:00",
  "pieces": [
+  {
+   "id": "renvir_W04_reel_neverstop_garrett_chris_v17_9x16",
+   "week": "W04",
+   "type": "reel",
+   "subject": "neverstop_garrett_ugc",
+   "file": "renvir_W04_reel_neverstop_garrett_chris_v17_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W04_reel_neverstop_garrett_chris_v17_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-27",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Never Stop UGC test with Garrett, Chris voice. Rough: audio still being tuned. Alpha Detox.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W04_cover_supercharger_story_4x5",
    "week": "W04",
@@ -6378,9 +6401,9 @@
   ]
  },
  "summary": {
-  "pieces": 59,
+  "pieces": 60,
   "by_status": {
-   "draft": 42,
+   "draft": 43,
    "live": 7,
    "approved": 1,
    "review": 8,
