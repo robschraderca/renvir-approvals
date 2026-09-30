@@ -1,6 +1,98 @@
 {
- "generated_at": "2026-09-29T21:04:36+00:00",
+ "generated_at": "2026-09-30T00:05:29+00:00",
  "pieces": [
+  {
+   "id": "renvir_W05_cutdown_high_octane_7s_4x5",
+   "week": "W05",
+   "type": "cutdown",
+   "subject": "high_octane",
+   "file": "renvir_W05_cutdown_high_octane_7s_4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_cutdown_high_octane_7s_4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate A at 4x5, same cut from the W02 v26 4x5, same audio",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_cutdown_high_octane_7s_9x16",
+   "week": "W05",
+   "type": "cutdown",
+   "subject": "high_octane",
+   "file": "renvir_W05_cutdown_high_octane_7s_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_cutdown_high_octane_7s_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate A, 7.0 s, cut from the live W02 v26 picture (the ad selling now, 3 purchases). VO kept from the live mix: High octane, low maintenance (2.0 to 4.3) then Renvir, renewed man (4.8 to 6.4), the Seven performance ingredients line dropped, spliced at 4.70 to 8.90 of the source with a 0.12 s crossfade, 0.63 s tail, minus 15.2 LUFS. Ingredient block on screen at 5.0 carries the product line. Footer never lands (it enters at 9.0 in the source). Not sent.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_cutdown_high_octane_8s_4x5",
+   "week": "W05",
+   "type": "cutdown",
+   "subject": "high_octane",
+   "file": "renvir_W05_cutdown_high_octane_8s_4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_cutdown_high_octane_8s_4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate B at 4x5, same trim from the W02 v26 4x5",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_cutdown_high_octane_8s_9x16",
+   "week": "W05",
+   "type": "cutdown",
+   "subject": "high_octane",
+   "file": "renvir_W05_cutdown_high_octane_8s_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_cutdown_high_octane_8s_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate B, 8.6 s, straight trim of the live v26, VO untouched: hook then Seven performance ingredients, one supercharger ends at 7.95, 0.65 s room tail, sign off dropped, minus 15.1 LUFS. 7.0 was impossible with the product line because the live VO enters at 2.0 and that line ends at 7.95. Not sent.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W05_reel_alex_seven_steps_dark_4x5",
    "week": "W05",
@@ -181,6 +273,75 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "Alex Sept 29 email line, light look, Never Stop system (src/cards/alex_sep29.tsx), real product cutouts only, title safe asserted, not sent",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_reel_high_octane_live_4x5",
+   "week": "W05",
+   "type": "reel",
+   "subject": "high_octane_live",
+   "file": "renvir_W05_reel_high_octane_live_4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_reel_high_octane_live_4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate C at 4x5, same definition, block at 885 from top so it clears the jar",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_reel_high_octane_live_9x16",
+   "week": "W05",
+   "type": "reel",
+   "subject": "high_octane_live",
+   "file": "renvir_W05_reel_high_octane_live_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_reel_high_octane_live_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Candidate C, the live ad re-laid, 8.6 s, Remotion src/reels/high_octane_live.tsx. Rob: 7 performance ingredients, one supercharger is important, should the text be bigger. The product line is now the third and fourth headline beat at the headline size (60 px, was 23 px), white, on the word (4.95 and 6.8); ingredient names moved to the caption; block below the jar in clear wall, ends above the 20 percent reels band; gold gone. Plate is the O3 pass at half speed, matches the live pass frame for frame, light warm grade. Audio is the live mix, first 8.6 s. Title safe asserted at build. Minus 15.1 LUFS, peak minus 3.9. Not sent.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_reel_high_octane_live_9x16.mp4 and _4x5",
+   "week": "W05",
+   "type": "reel",
+   "subject": "high_octane_live",
+   "file": "renvir_W05_reel_high_octane_live_9x16.mp4 and _4x5.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_reel_high_octane_live_9x16.mp4 and _4x5.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "both",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-09-29",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Re-rendered without the wordmark, Rob override Sept 29 (no wordmark on footage, same call as the Indy reel). Same files overwritten. Not sent.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -973,7 +1134,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T16:04:29.865421-05:00",
+      "at": "2026-09-29T19:05:20.702674-05:00",
       "reach": 41,
       "views": 66,
       "likes": 6,
@@ -1596,6 +1757,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:20.702674-05:00",
+       "reach": 41,
+       "views": 66,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1653,7 +1826,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T16:04:27.671245-05:00",
+      "at": "2026-09-29T19:05:26.065843-05:00",
       "reach": 195,
       "views": 299,
       "likes": 14,
@@ -2228,6 +2401,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:26.065843-05:00",
+       "reach": 195,
+       "views": 299,
+       "likes": 14,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -2339,9 +2524,9 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T16:04:30.851336-05:00",
-      "reach": 114,
-      "views": 177,
+      "at": "2026-09-29T19:05:22.245481-05:00",
+      "reach": 115,
+      "views": 178,
       "likes": 14,
       "comments": 0,
       "saves": 0,
@@ -3022,6 +3207,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:22.245481-05:00",
+       "reach": 115,
+       "views": 178,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -3125,9 +3322,9 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T16:04:34.474070-05:00",
-      "reach": 54,
-      "views": 92,
+      "at": "2026-09-29T19:05:29.435323-05:00",
+      "reach": 55,
+      "views": 94,
       "likes": 8,
       "comments": 2,
       "saves": 0,
@@ -4012,6 +4209,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:29.435323-05:00",
+       "reach": 55,
+       "views": 94,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -4069,9 +4278,9 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T16:04:33.826295-05:00",
-      "reach": 32,
-      "views": 66,
+      "at": "2026-09-29T19:05:28.836686-05:00",
+      "reach": 33,
+      "views": 67,
       "likes": 7,
       "comments": 0,
       "saves": 0,
@@ -4956,6 +5165,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:28.836686-05:00",
+       "reach": 33,
+       "views": 67,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -5013,10 +5234,10 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T16:04:14.406142-05:00",
-      "reach": 32,
-      "views": 53,
-      "likes": 6,
+      "at": "2026-09-29T19:05:07.292948-05:00",
+      "reach": 34,
+      "views": 55,
+      "likes": 7,
       "comments": 0,
       "saves": 0,
       "shares": 0,
@@ -5900,6 +6121,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:07.292948-05:00",
+       "reach": 34,
+       "views": 55,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -6003,10 +6236,10 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T16:04:35.099264-05:00",
-      "reach": 277,
-      "views": 445,
-      "likes": 12,
+      "at": "2026-09-29T19:05:29.894238-05:00",
+      "reach": 278,
+      "views": 448,
+      "likes": 13,
       "comments": 1,
       "saves": 0,
       "shares": 3,
@@ -6968,6 +7201,18 @@
        "reach": 277,
        "views": 445,
        "likes": 12,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T19:05:29.894238-05:00",
+       "reach": 278,
+       "views": 448,
+       "likes": 13,
        "comments": 1,
        "saves": 0,
        "shares": 3,
@@ -8199,6 +8444,10 @@
    {
     "at": "2026-09-29T16:03:52.204267-05:00",
     "followers": 220
+   },
+   {
+    "at": "2026-09-29T19:04:47.449316-05:00",
+    "followers": 220
    }
   ],
   "facebook": [
@@ -8545,13 +8794,17 @@
    {
     "at": "2026-09-29T16:03:52.602685-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-09-29T19:04:47.850222-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 96,
+  "pieces": 103,
   "by_status": {
-   "draft": 74,
+   "draft": 81,
    "review": 12,
    "rejected": 1,
    "live": 7,
