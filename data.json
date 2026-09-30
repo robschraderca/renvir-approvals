@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T00:05:29+00:00",
+ "generated_at": "2026-09-30T03:06:25+00:00",
  "pieces": [
   {
    "id": "renvir_W05_cutdown_high_octane_7s_4x5",
@@ -89,6 +89,29 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "Candidate B, 8.6 s, straight trim of the live v26, VO untouched: hook then Seven performance ingredients, one supercharger ends at 7.95, 0.65 s room tail, sign off dropped, minus 15.1 LUFS. 7.0 was impossible with the product line because the live VO enters at 2.0 and that line ends at 7.95. Not sent.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W05_fbcover_v4b_SHIP_1640x624",
+   "week": "W05",
+   "type": "cover",
+   "subject": "fb_cover_newman",
+   "file": "renvir_W05_fbcover_v4b_SHIP_1640x624.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W05_fbcover_v4b_SHIP_1640x624.jpg",
+   "thumb_url": null,
+   "real_or_ai": "",
+   "ai_people": false,
+   "aspect": "1640x624",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-09-29",
+   "sent_to": "Facebook Page cover",
+   "sent_date": "2026-09-29",
+   "notes": "LIVE 2026-09-29, cover_id 122146868733103642, supersedes v3. Products dropped from the cover by Rob's call: the mobile clear column is about 300px of 1640 and will not carry a lockup and three jars at a usable size. Face, wordmark and NEVER STOP(TM) only. Wordmark 100px left margin, 22px clear of the thought bubble, all type above the profile circle top at y374. real_or_ai unset.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1134,9 +1157,9 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T19:05:20.702674-05:00",
+      "at": "2026-09-29T22:06:20.780051-05:00",
       "reach": 41,
-      "views": 66,
+      "views": 69,
       "likes": 6,
       "comments": 0,
       "saves": 0,
@@ -1769,6 +1792,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:20.780051-05:00",
+       "reach": 41,
+       "views": 69,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -1826,9 +1861,9 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T19:05:26.065843-05:00",
+      "at": "2026-09-29T22:06:18.423771-05:00",
       "reach": 195,
-      "views": 299,
+      "views": 305,
       "likes": 14,
       "comments": 1,
       "saves": 0,
@@ -2413,6 +2448,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:18.423771-05:00",
+       "reach": 195,
+       "views": 305,
+       "likes": 14,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -2524,9 +2571,9 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-09-29T19:05:22.245481-05:00",
+      "at": "2026-09-29T22:06:15.080817-05:00",
       "reach": 115,
-      "views": 178,
+      "views": 182,
       "likes": 14,
       "comments": 0,
       "saves": 0,
@@ -3219,6 +3266,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:15.080817-05:00",
+       "reach": 115,
+       "views": 182,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -3322,9 +3381,9 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T19:05:29.435323-05:00",
+      "at": "2026-09-29T22:06:22.999673-05:00",
       "reach": 55,
-      "views": 94,
+      "views": 100,
       "likes": 8,
       "comments": 2,
       "saves": 0,
@@ -4221,6 +4280,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:22.999673-05:00",
+       "reach": 55,
+       "views": 100,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -4278,9 +4349,9 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T19:05:28.836686-05:00",
+      "at": "2026-09-29T22:06:22.316498-05:00",
       "reach": 33,
-      "views": 67,
+      "views": 72,
       "likes": 7,
       "comments": 0,
       "saves": 0,
@@ -5177,6 +5248,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:22.316498-05:00",
+       "reach": 33,
+       "views": 72,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -5234,9 +5317,9 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T19:05:07.292948-05:00",
+      "at": "2026-09-29T22:06:00.916460-05:00",
       "reach": 34,
-      "views": 55,
+      "views": 61,
       "likes": 7,
       "comments": 0,
       "saves": 0,
@@ -6133,6 +6216,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:00.916460-05:00",
+       "reach": 34,
+       "views": 61,
+       "likes": 7,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -6236,9 +6331,9 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-09-29T19:05:29.894238-05:00",
+      "at": "2026-09-29T22:06:23.637449-05:00",
       "reach": 278,
-      "views": 448,
+      "views": 450,
       "likes": 13,
       "comments": 1,
       "saves": 0,
@@ -7212,6 +7307,18 @@
        "at": "2026-09-29T19:05:29.894238-05:00",
        "reach": 278,
        "views": 448,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-09-29T22:06:23.637449-05:00",
+       "reach": 278,
+       "views": 450,
        "likes": 13,
        "comments": 1,
        "saves": 0,
@@ -8448,6 +8555,10 @@
    {
     "at": "2026-09-29T19:04:47.449316-05:00",
     "followers": 220
+   },
+   {
+    "at": "2026-09-29T22:05:39.505048-05:00",
+    "followers": 220
    }
   ],
   "facebook": [
@@ -8798,14 +8909,18 @@
    {
     "at": "2026-09-29T19:04:47.850222-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-09-29T22:05:40.021272-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 103,
+  "pieces": 104,
   "by_status": {
    "draft": 81,
-   "review": 12,
+   "review": 13,
    "rejected": 1,
    "live": 7,
    "approved": 1,
