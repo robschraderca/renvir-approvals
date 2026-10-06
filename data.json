@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T02:22:45+00:00",
+ "generated_at": "2026-10-06T05:24:10+00:00",
  "pieces": [
   {
    "id": "renvir_W05_story_rust_he_needs_these_3_9x16",
@@ -1295,7 +1295,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-05T21:22:40.238179-05:00",
+      "at": "2026-10-06T00:24:02.049436-05:00",
       "reach": 48,
       "views": 78,
       "likes": 6,
@@ -2518,6 +2518,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:24:02.049436-05:00",
+       "reach": 48,
+       "views": 78,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -2575,9 +2587,9 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-05T21:22:38.026237-05:00",
+      "at": "2026-10-06T00:23:59.487960-05:00",
       "reach": 213,
-      "views": 331,
+      "views": 332,
       "likes": 18,
       "comments": 1,
       "saves": 0,
@@ -3750,6 +3762,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:23:59.487960-05:00",
+       "reach": 213,
+       "views": 332,
+       "likes": 18,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -3861,7 +3885,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-05T21:22:34.867927-05:00",
+      "at": "2026-10-06T00:24:04.437720-05:00",
       "reach": 119,
       "views": 190,
       "likes": 14,
@@ -5144,6 +5168,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:24:04.437720-05:00",
+       "reach": 119,
+       "views": 190,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -5247,7 +5283,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-05T21:22:42.754660-05:00",
+      "at": "2026-10-06T00:24:10.116989-05:00",
       "reach": 62,
       "views": 111,
       "likes": 8,
@@ -6734,6 +6770,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:24:10.116989-05:00",
+       "reach": 62,
+       "views": 111,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -6791,7 +6839,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-05T21:22:41.973490-05:00",
+      "at": "2026-10-06T00:24:09.611362-05:00",
       "reach": 40,
       "views": 86,
       "likes": 7,
@@ -8278,6 +8326,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:24:09.611362-05:00",
+       "reach": 40,
+       "views": 86,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -8335,7 +8395,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-05T21:22:19.757497-05:00",
+      "at": "2026-10-06T00:23:54.471409-05:00",
       "reach": 40,
       "views": 73,
       "likes": 8,
@@ -9822,6 +9882,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:23:54.471409-05:00",
+       "reach": 40,
+       "views": 73,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -9925,7 +9997,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-05T21:22:43.332958-05:00",
+      "at": "2026-10-06T00:24:05.631946-05:00",
       "reach": 281,
       "views": 458,
       "likes": 13,
@@ -11496,6 +11568,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T00:24:05.631946-05:00",
+       "reach": 281,
+       "views": 458,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -12921,6 +13005,10 @@
    {
     "at": "2026-10-05T21:22:02.543671-05:00",
     "followers": 223
+   },
+   {
+    "at": "2026-10-06T00:23:23.172329-05:00",
+    "followers": 223
    }
   ],
   "facebook": [
@@ -13466,6 +13554,10 @@
    },
    {
     "at": "2026-10-05T21:22:03.264576-05:00",
+    "followers": 25
+   },
+   {
+    "at": "2026-10-06T00:23:24.499601-05:00",
     "followers": 25
    }
   ]
