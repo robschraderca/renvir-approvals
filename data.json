@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T20:30:31+00:00",
+ "generated_at": "2026-10-07T00:40:53+00:00",
  "pieces": [
   {
    "id": "renvir_W05_story_rust_he_needs_these_3_9x16",
@@ -5427,7 +5427,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-06T15:30:27.747914-05:00",
+      "at": "2026-10-06T19:40:51.247224-05:00",
       "reach": 62,
       "views": 111,
       "likes": 8,
@@ -6974,6 +6974,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T19:40:51.247224-05:00",
+       "reach": 62,
+       "views": 111,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -7031,7 +7043,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-06T15:30:26.947163-05:00",
+      "at": "2026-10-06T19:40:50.546379-05:00",
       "reach": 40,
       "views": 86,
       "likes": 7,
@@ -8569,6 +8581,18 @@
       },
       {
        "at": "2026-10-06T15:30:26.947163-05:00",
+       "reach": 40,
+       "views": 86,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T19:40:50.546379-05:00",
        "reach": 40,
        "views": 86,
        "likes": 7,
@@ -10285,7 +10309,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-06T15:30:29.177963-05:00",
+      "at": "2026-10-06T19:40:51.860442-05:00",
       "reach": 281,
       "views": 458,
       "likes": 13,
@@ -11907,6 +11931,18 @@
       },
       {
        "at": "2026-10-06T15:30:29.177963-05:00",
+       "reach": 281,
+       "views": 458,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
+      },
+      {
+       "at": "2026-10-06T19:40:51.860442-05:00",
        "reach": 281,
        "views": 458,
        "likes": 13,
