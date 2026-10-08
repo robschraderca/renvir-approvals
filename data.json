@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-10-08T12:51:46+00:00",
+ "generated_at": "2026-10-08T14:57:44+00:00",
  "pieces": [
+  {
+   "id": "renvir_W06_fb_announce_side_color_1x1",
+   "week": "W06",
+   "type": "static",
+   "subject": "launch_announcement",
+   "file": "renvir_W06_fb_announce_side_color_1x1.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W06_fb_announce_side_color_1x1.jpg",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "1x1",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-10-08",
+   "sent_to": "Alex",
+   "sent_date": "2026-10-08",
+   "notes": "Facebook launch announcement for Alex's own page. Typographic: black type column, white bottle column, WE'RE LIVE., the date, wordmark with registered R, Built for guys who take care of everything else. Bottles are the site's studio packshot (02_SOURCE/product_shots_web/allproduct.jpg). Built by 09_WORKING/creative/explore/launch_announcement_2026-10-08/build_announce.py. Emailed with the share kit PDF through _shared/tools/mail/send_mail.py. Wide 1200x630 beside it.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W05_story_rust_he_needs_these_3_9x16",
    "week": "W05",
@@ -15071,10 +15094,10 @@
   ]
  },
  "summary": {
-  "pieces": 110,
+  "pieces": 111,
   "by_status": {
+   "review": 14,
    "draft": 87,
-   "review": 13,
    "rejected": 1,
    "live": 7,
    "approved": 1,
@@ -15085,7 +15108,8 @@
    "W02",
    "W03",
    "W04",
-   "W05"
+   "W05",
+   "W06"
   ]
  }
 }
