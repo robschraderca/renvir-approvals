@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-10-15T14:35:25+00:00",
+ "generated_at": "2026-10-15T17:12:28+00:00",
  "pieces": [
+  {
+   "id": "renvir_W07_reel_routine_single_v4_supercharger_ad_9x16",
+   "week": "W07",
+   "type": "reel",
+   "subject": "supercharger_single_v4",
+   "file": "renvir_W07_reel_routine_single_v4_supercharger_ad_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W07_reel_routine_single_v4_supercharger_ad_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-10-15",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Supercharger single v4, hook A, ripple open; organic reel Oct 15, Rob: post it with Alex as collab",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W06_fb_announce_side_color_1x1",
    "week": "W06",
@@ -19794,13 +19817,13 @@
   ]
  },
  "summary": {
-  "pieces": 111,
+  "pieces": 112,
   "by_status": {
+   "approved": 2,
    "review": 14,
    "draft": 87,
    "rejected": 1,
    "live": 7,
-   "approved": 1,
    "changes": 1
   },
   "weeks": [
@@ -19809,7 +19832,8 @@
    "W03",
    "W04",
    "W05",
-   "W06"
+   "W06",
+   "W07"
   ]
  }
 }
