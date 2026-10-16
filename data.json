@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-10-16T14:42:47+00:00",
+ "generated_at": "2026-10-16T15:40:53+00:00",
  "pieces": [
+  {
+   "id": "renvir_W07_reel_routine_single_rob_citrusrevive_ad_9x16",
+   "week": "W07",
+   "type": "reel",
+   "subject": "citrusrevive_single_robvoice",
+   "file": "renvir_W07_reel_routine_single_rob_citrusrevive_ad_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W07_reel_routine_single_rob_citrusrevive_ad_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-10-16",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Citrus Revive single in Rob's own voice (isolated), full frame; organic reel Oct 16",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W07_reel_routine_single_v4_supercharger_ad_9x16",
    "week": "W07",
@@ -20576,9 +20599,9 @@
   ]
  },
  "summary": {
-  "pieces": 113,
+  "pieces": 114,
   "by_status": {
-   "approved": 3,
+   "approved": 4,
    "review": 14,
    "draft": 87,
    "rejected": 1,
