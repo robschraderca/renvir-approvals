@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-10-20T12:14:12+00:00",
+ "generated_at": "2026-10-20T13:32:34+00:00",
  "pieces": [
+  {
+   "id": "renvir_W08_reel_routine_short_v1_ad_9x16",
+   "week": "W08",
+   "type": "reel",
+   "subject": "routine_short_v1_ad",
+   "file": "renvir_W08_reel_routine_short_v1_ad_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W08_reel_routine_short_v1_ad_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-10-20",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Routine short v1, 15.85 s: offer in Rob's isolated read, splash, drop, ripple, close in his voice. Organic IG and FB, Oct 20 2026, Rob's go.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W07_reel_routine_single_rob_citrusrevive_ad_9x16",
    "week": "W07",
@@ -23451,9 +23474,9 @@
   ]
  },
  "summary": {
-  "pieces": 114,
+  "pieces": 115,
   "by_status": {
-   "approved": 4,
+   "approved": 5,
    "review": 14,
    "draft": 87,
    "rejected": 1,
@@ -23467,7 +23490,8 @@
    "W04",
    "W05",
    "W06",
-   "W07"
+   "W07",
+   "W08"
   ]
  }
 }
