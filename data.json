@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T16:04:48+00:00",
+ "generated_at": "2026-10-21T18:24:37+00:00",
  "pieces": [
   {
    "id": "renvir_W08_reel_supercharger_heforgets_9x16",
@@ -19,7 +19,30 @@
    "created": "2026-10-21",
    "sent_to": null,
    "sent_date": null,
-   "notes": "Feed Reel Oct 21 from the Wednesday story; Veo pour + Supercharger ripple + Kling continuation; Rob's clone voice; no vocals stem of his own track",
+   "notes": "Feed Reel published 2026-10-21 16:07 UTC by publish_meta.py on Rob's go: https://www.instagram.com/reel/DewzLfjDhGy/ and Facebook Page video https://www.facebook.com/1785964875971083 . The two Wednesday story frames joined, type in the Reel band (y 375 to 1536, 4:5 feed crop checked), cover HE FORGETS. over the jar.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W08_story_supercharger_whatabout_01_9x16",
+   "week": "W08",
+   "type": "story",
+   "subject": "supercharger_heforgets",
+   "file": "renvir_W08_story_supercharger_whatabout_01_9x16.mp4 + _02_",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W08_story_supercharger_whatabout_01_9x16.mp4 + _02_",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-10-21",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "WHAT ABOUT THIS? story, now HE FORGETS., two frames, posted by Rob from his phone. Veo 3.1 water pour (generated), approved Supercharger ripple plus a Kling continuation (jar held to 0 px), Rob's rec46 clone voice, no vocals stem of his own track as the beat. Locked page for Alex p-9487c3a2 (draft email not sent).",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -43,6 +66,29 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "Routine short v1, 15.85 s: offer in Rob's isolated read, splash, drop, ripple, close in his voice. Organic IG and FB, Oct 20 2026, Rob's go.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W08_story_citrusrevive_quiz_01_9x16",
+   "week": "W08",
+   "type": "story",
+   "subject": "citrusrevive_takeaguess",
+   "file": "renvir_W08_story_citrusrevive_quiz_01_9x16.mp4 + _02_",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W08_story_citrusrevive_quiz_01_9x16.mp4 + _02_",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "draft",
+   "created": "2026-10-20",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "TAKE A GUESS. story, two frames, posted by Rob from his phone. Approved Citrus golden drop clip (generated, real label as approved Oct 12), Rob's rec46 clone voice, quiz sticker became a poll (quiz gone on the account). Build notes: 09_WORKING/creative/explore/story_series_2026-10-16/NOTES.md",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1433,7 +1479,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-21T10:23:23.859881-05:00",
+      "at": "2026-10-21T13:24:23.513433-05:00",
       "reach": 61,
       "views": 91,
       "likes": 6,
@@ -4048,6 +4094,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:23.513433-05:00",
+       "reach": 61,
+       "views": 91,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -4105,7 +4163,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-21T10:23:20.016944-05:00",
+      "at": "2026-10-21T13:24:22.495587-05:00",
       "reach": 225,
       "views": 347,
       "likes": 18,
@@ -6672,6 +6730,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:22.495587-05:00",
+       "reach": 225,
+       "views": 347,
+       "likes": 18,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -6783,7 +6853,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-21T10:23:19.027816-05:00",
+      "at": "2026-10-21T13:24:25.231826-05:00",
       "reach": 131,
       "views": 205,
       "likes": 14,
@@ -9458,6 +9528,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:25.231826-05:00",
+       "reach": 131,
+       "views": 205,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -9561,7 +9643,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-21T10:23:25.260367-05:00",
+      "at": "2026-10-21T13:24:36.246498-05:00",
       "reach": 69,
       "views": 119,
       "likes": 8,
@@ -12452,6 +12534,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:36.246498-05:00",
+       "reach": 69,
+       "views": 119,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -12509,7 +12603,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-21T10:23:36.496350-05:00",
+      "at": "2026-10-21T13:24:33.108764-05:00",
       "reach": 46,
       "views": 94,
       "likes": 7,
@@ -15400,6 +15494,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:33.108764-05:00",
+       "reach": 46,
+       "views": 94,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -15457,7 +15563,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-21T10:23:15.487331-05:00",
+      "at": "2026-10-21T13:24:03.507148-05:00",
       "reach": 50,
       "views": 85,
       "likes": 8,
@@ -18336,6 +18442,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:03.507148-05:00",
+       "reach": 50,
+       "views": 85,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -18439,7 +18557,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-21T10:23:33.913261-05:00",
+      "at": "2026-10-21T13:24:25.861015-05:00",
       "reach": 288,
       "views": 465,
       "likes": 13,
@@ -21414,6 +21532,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-21T13:24:25.861015-05:00",
+       "reach": 288,
+       "views": 465,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -23307,6 +23437,10 @@
    {
     "at": "2026-10-21T10:22:42.266142-05:00",
     "followers": 232
+   },
+   {
+    "at": "2026-10-21T13:23:45.004124-05:00",
+    "followers": 232
    }
   ],
   "facebook": [
@@ -24321,15 +24455,19 @@
    {
     "at": "2026-10-21T10:22:42.897117-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-10-21T13:23:45.546296-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 116,
+  "pieces": 118,
   "by_status": {
    "approved": 6,
+   "draft": 89,
    "review": 14,
-   "draft": 87,
    "rejected": 1,
    "live": 7,
    "changes": 1
