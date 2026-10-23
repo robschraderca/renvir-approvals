@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-10-23T15:40:24+00:00",
+ "generated_at": "2026-10-23T16:12:36+00:00",
  "pieces": [
+  {
+   "id": "renvir_W08_reel_alphadetox_contractor_v8_9x16",
+   "week": "W08",
+   "type": "reel",
+   "subject": "alphadetox_contractor",
+   "file": "renvir_W08_reel_alphadetox_contractor_v8_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W08_reel_alphadetox_contractor_v8_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-10-23",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Contractor reel v8 9:16, Rob's own voice take 2; posted organic to IG (AI label, Collab @danzealex) and FB on Rob's go, Oct 23 2026",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "2026-10-22_blaze_mango_v2_9x16",
    "week": "W08",
@@ -25958,11 +25981,11 @@
   ]
  },
  "summary": {
-  "pieces": 123,
+  "pieces": 124,
   "by_status": {
+   "approved": 7,
    "review": 17,
    "draft": 91,
-   "approved": 6,
    "rejected": 1,
    "live": 7,
    "changes": 1
