@@ -1,6 +1,52 @@
 {
- "generated_at": "2026-10-23T03:36:20+00:00",
+ "generated_at": "2026-10-23T06:37:17+00:00",
  "pieces": [
+  {
+   "id": "2026-10-22_blaze_mango_v2_9x16",
+   "week": "W08",
+   "type": "reel",
+   "subject": "dog_talk_blaze_mango",
+   "file": "2026-10-22_blaze_mango_v2_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/2026-10-22_blaze_mango_v2_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "test",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-10-22",
+   "sent_to": "Alex",
+   "sent_date": "2026-10-22",
+   "notes": "Blaze (Rob's late mastiff) and Mango (Alex's late bulldog) talking, a quick test, not for posting. Two shot still from both dogs' photos (Nano Banana Pro, Mango's markings by a Sunburst masked edit), Rob's read through the voice changer (Blaze Brian, Mango Will), OmniHuman 1.5 with a speaker mask, one run per dog, cut to a closer framing for Mango. No captions, no end card, no product. shot_qc pass, -15.7 LUFS. Sent to Alex as locked page p-e495e188 on Oct 22, 10:38 pm Rob's time. FAL $6.53. Folder 09_WORKING/creative/explore/dog_talk_2026-10-22/",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "2026-10-22_blaze_mango_v3_test360_SENT_ALEX",
+   "week": "W08",
+   "type": "reel",
+   "subject": "dog_talk_blaze_mango",
+   "file": "2026-10-22_blaze_mango_v3_test360_SENT_ALEX.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/2026-10-22_blaze_mango_v3_test360_SENT_ALEX.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "test",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-10-22",
+   "sent_to": "Alex",
+   "sent_date": "2026-10-22",
+   "notes": "Blaze and Mango take two, work in progress, not for posting: one continuous 10 s take from Omni Flash 1.1 at 360p ($0.30), dialogue written in the prompt (model's own voices), the dogs look at each other, new ending (Can I lick you? Heck yeah.), Mango licks at the end. Chest up fade added in post (the model painted the bodies in). Sent to Alex as locked page p-b8517639 on Oct 22, 11:46 pm Rob's time, Rob's words: work in progress, on to something. 1080p take not run yet.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W08_reel_forhim_her_voice_v1_4x5",
    "week": "W08",
@@ -1548,7 +1594,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-22T22:36:03.631488-05:00",
+      "at": "2026-10-23T01:37:03.926452-05:00",
       "reach": 61,
       "views": 91,
       "likes": 6,
@@ -4307,6 +4353,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:03.926452-05:00",
+       "reach": 61,
+       "views": 91,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -4364,7 +4422,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-22T22:36:02.834142-05:00",
+      "at": "2026-10-23T01:37:01.132268-05:00",
       "reach": 225,
       "views": 347,
       "likes": 18,
@@ -7075,6 +7133,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:01.132268-05:00",
+       "reach": 225,
+       "views": 347,
+       "likes": 18,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -7186,7 +7256,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-22T22:36:04.673094-05:00",
+      "at": "2026-10-23T01:37:05.413014-05:00",
       "reach": 131,
       "views": 205,
       "likes": 14,
@@ -10005,6 +10075,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:05.413014-05:00",
+       "reach": 131,
+       "views": 205,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -10108,7 +10190,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-22T22:36:18.638291-05:00",
+      "at": "2026-10-23T01:37:08.996720-05:00",
       "reach": 69,
       "views": 119,
       "likes": 8,
@@ -13143,6 +13225,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:08.996720-05:00",
+       "reach": 69,
+       "views": 119,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -13200,7 +13294,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-22T22:36:11.052103-05:00",
+      "at": "2026-10-23T01:37:14.299855-05:00",
       "reach": 46,
       "views": 94,
       "likes": 7,
@@ -16235,6 +16329,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:14.299855-05:00",
+       "reach": 46,
+       "views": 94,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -16292,7 +16398,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-22T22:35:50.657976-05:00",
+      "at": "2026-10-23T01:36:56.687148-05:00",
       "reach": 50,
       "views": 85,
       "likes": 8,
@@ -19315,6 +19421,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:36:56.687148-05:00",
+       "reach": 50,
+       "views": 85,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -19418,7 +19536,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-22T22:36:20.288654-05:00",
+      "at": "2026-10-23T01:37:16.335045-05:00",
       "reach": 288,
       "views": 465,
       "likes": 13,
@@ -22537,6 +22655,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-23T01:37:16.335045-05:00",
+       "reach": 288,
+       "views": 465,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -24478,6 +24608,10 @@
    {
     "at": "2026-10-22T22:35:29.389792-05:00",
     "followers": 234
+   },
+   {
+    "at": "2026-10-23T01:36:27.613563-05:00",
+    "followers": 234
    }
   ],
   "facebook": [
@@ -25540,14 +25674,18 @@
    {
     "at": "2026-10-22T22:35:30.291936-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-10-23T01:36:29.673455-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 121,
+  "pieces": 123,
   "by_status": {
+   "review": 17,
    "draft": 91,
-   "review": 15,
    "approved": 6,
    "rejected": 1,
    "live": 7,
