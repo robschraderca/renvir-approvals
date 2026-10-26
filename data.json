@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T00:05:17+00:00",
+ "generated_at": "2026-10-26T00:33:32+00:00",
  "pieces": [
   {
    "id": "2026-10-25_bathroom_door_full_v2_9x16",
@@ -25,6 +25,29 @@
    "drafts": []
   },
   {
+   "id": "2026-10-25_bathroom_door_full_v7_9x16",
+   "week": "W08",
+   "type": "reel",
+   "subject": "dog_talk_bathroom_door",
+   "file": "2026-10-25_bathroom_door_full_v7_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/2026-10-25_bathroom_door_full_v7_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-10-25",
+   "sent_to": "Alex",
+   "sent_date": "2026-10-25",
+   "notes": "Bathroom Door v7 swapped onto Alex's existing locked page p-c33471d7 (same link, no new email) at Rob's word, Oct 25: dogs upscaled to 1080, Blaze 'Whoa. He looks so much younger.', Mango 'Who says you can't teach an old dog new tricks?', one fixed framing in the peek shot, regimen card and slam close on Rob's read 2 (standard polish chain; the warmer EQ v8 sounded worse to Rob). 26.2 s, -15.3 LUFS. Replaces v2 on that page.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
    "id": "renvir_W08_reel_dogs_bathroom_door_v9_9x16",
    "week": "W08",
    "type": "reel",
@@ -40,9 +63,9 @@
    "concept": null,
    "status": "approved",
    "created": "2026-10-25",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Blaze and Mango, Alex approved v7 Oct 25; v9 = jars scaled for app safe zones",
+   "sent_to": "Instagram",
+   "sent_date": "2026-10-25",
+   "notes": "Instagram Reel LIVE at Rob's go, Oct 25, 7:08 pm Rob's time: https://www.instagram.com/reel/De79a27kZLn/ (media 17982914387908088), shared to feed, AI label read back true, cover renvir_W08_cover_dogs_bathroom_door_v9_9x16.jpg, Collab invite @danzealex Pending (Alex accepts in the app). Rob dropped himself as Collab after @darthschrader12 was refused (2207066). Tags #renvir #mensskincare #skincareformen #dogdad #menover40. Facebook twin: https://www.facebook.com/reel/988706183589611/. Story: Rob shares the Reel from his phone.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1663,7 +1686,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-25T16:32:08.991819-05:00",
+      "at": "2026-10-25T19:33:12.703707-05:00",
       "reach": 61,
       "views": 93,
       "likes": 6,
@@ -4674,6 +4697,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:12.703707-05:00",
+       "reach": 61,
+       "views": 93,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -4731,7 +4766,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-25T16:32:04.303692-05:00",
+      "at": "2026-10-25T19:33:18.442429-05:00",
       "reach": 225,
       "views": 349,
       "likes": 18,
@@ -7694,6 +7729,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:18.442429-05:00",
+       "reach": 225,
+       "views": 349,
+       "likes": 18,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -7805,7 +7852,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-10-25T16:32:11.164408-05:00",
+      "at": "2026-10-25T19:33:13.923445-05:00",
       "reach": 131,
       "views": 206,
       "likes": 14,
@@ -10876,6 +10923,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:13.923445-05:00",
+       "reach": 131,
+       "views": 206,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -10979,8 +11038,8 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-25T16:32:25.527837-05:00",
-      "reach": 69,
+      "at": "2026-10-25T19:33:26.955786-05:00",
+      "reach": 70,
       "views": 121,
       "likes": 8,
       "comments": 2,
@@ -14266,6 +14325,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:26.955786-05:00",
+       "reach": 70,
+       "views": 121,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -14323,7 +14394,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-25T16:32:26.155952-05:00",
+      "at": "2026-10-25T19:33:30.685999-05:00",
       "reach": 46,
       "views": 96,
       "likes": 7,
@@ -17610,6 +17681,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:30.685999-05:00",
+       "reach": 46,
+       "views": 96,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -17667,7 +17750,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-25T16:31:58.872802-05:00",
+      "at": "2026-10-25T19:33:09.011698-05:00",
       "reach": 50,
       "views": 87,
       "likes": 8,
@@ -20942,6 +21025,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:09.011698-05:00",
+       "reach": 50,
+       "views": 87,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -21045,8 +21140,8 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-10-25T16:32:20.768445-05:00",
-      "reach": 290,
+      "at": "2026-10-25T19:33:27.482248-05:00",
+      "reach": 291,
       "views": 468,
       "likes": 13,
       "comments": 1,
@@ -24416,6 +24511,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-10-25T19:33:27.482248-05:00",
+       "reach": 291,
+       "views": 468,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -26441,6 +26548,10 @@
    {
     "at": "2026-10-25T16:31:17.408600-05:00",
     "followers": 236
+   },
+   {
+    "at": "2026-10-25T19:32:39.831378-05:00",
+    "followers": 236
    }
   ],
   "facebook": [
@@ -27587,13 +27698,17 @@
    {
     "at": "2026-10-25T16:31:18.314058-05:00",
     "followers": 24
+   },
+   {
+    "at": "2026-10-25T19:32:40.466785-05:00",
+    "followers": 24
    }
   ]
  },
  "summary": {
-  "pieces": 126,
+  "pieces": 127,
   "by_status": {
-   "review": 18,
+   "review": 19,
    "approved": 8,
    "draft": 91,
    "rejected": 1,
