@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:32:31+00:00",
+ "generated_at": "2026-10-26T00:05:17+00:00",
  "pieces": [
   {
    "id": "2026-10-25_bathroom_door_full_v2_9x16",
@@ -20,6 +20,29 @@
    "sent_to": "Alex",
    "sent_date": "2026-10-25",
    "notes": "Blaze and Mango, the bathroom door: two Omni Flash shots (hallway, the peek), Brian and Will on both via the voice changer, retimed free (Omni Flash steps every 4th frame); the regimen card (locked beauty shot, Nano Banana 2.1 from Ray's front photos, every label rebuilt from the printer's files, THE COMPLETE FACE REGIMEN FOR MEN. / NINETY SECONDS. on Rob's own read, That's it. voice only); the house slam close NEVER STOP.(TM) LOOKING YOUNGER. RENVIR(R) on Rob's read, RENVIR held 5 s. 26.2 s, -15.4 LUFS, peaks -1.5. Dog shots are 360p scaled up. Sent to Alex as locked page p-c33471d7 on Oct 25, 1:31 am Rob's time (Oct 24, 10:31 pm Pacific). FAL on this round about $4.28 by the run log (stills, tests, the OmniHuman try, voices, plates, isolation). Folder 09_WORKING/creative/explore/dog_talk_2026-10-22/",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W08_reel_dogs_bathroom_door_v9_9x16",
+   "week": "W08",
+   "type": "reel",
+   "subject": "dogs_bathroom_door",
+   "file": "renvir_W08_reel_dogs_bathroom_door_v9_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W08_reel_dogs_bathroom_door_v9_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-10-25",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Blaze and Mango, Alex approved v7 Oct 25; v9 = jars scaled for app safe zones",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -27568,10 +27591,10 @@
   ]
  },
  "summary": {
-  "pieces": 125,
+  "pieces": 126,
   "by_status": {
    "review": 18,
-   "approved": 7,
+   "approved": 8,
    "draft": 91,
    "rejected": 1,
    "live": 7,
