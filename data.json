@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-02T15:25:21+00:00",
+ "generated_at": "2026-11-02T16:08:03+00:00",
  "pieces": [
+  {
+   "id": "renvir_W10_reel_dogs_alex_intercut_9x16",
+   "week": "W10",
+   "type": "reel",
+   "subject": "dogs_alex_intercut",
+   "file": "renvir_W10_reel_dogs_alex_intercut_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W10_reel_dogs_alex_intercut_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-02",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Alex's own sink video cut between Blaze and Mango; organic cut, no sticker",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "2026-10-27_bathroom_door_paid17_4x5_phone",
    "week": "W09",
@@ -33594,10 +33617,10 @@
   ]
  },
  "summary": {
-  "pieces": 131,
+  "pieces": 132,
   "by_status": {
+   "approved": 10,
    "review": 22,
-   "approved": 9,
    "draft": 91,
    "rejected": 1,
    "live": 7,
@@ -33612,7 +33635,8 @@
    "W06",
    "W07",
    "W08",
-   "W09"
+   "W09",
+   "W10"
   ]
  }
 }
