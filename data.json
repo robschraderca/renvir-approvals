@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-02T16:19:11+00:00",
+ "generated_at": "2026-11-02T18:26:27+00:00",
  "pieces": [
+  {
+   "id": "2026-10-31_dogs_alex_intercut_v1_4x5.mp4 + _9x16",
+   "week": "W10",
+   "type": "reel",
+   "subject": "dog_talk_bathroom_door",
+   "file": "2026-10-31_dogs_alex_intercut_v1_4x5.mp4 + _9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/2026-10-31_dogs_alex_intercut_v1_4x5.mp4 + _9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5+9x16",
+   "lane": "paid",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-11-02",
+   "sent_to": "Meta",
+   "sent_date": "2026-11-02",
+   "notes": "Alex's own Oct 22 sink video (real, Alpha Detox, the three jars) cut between the AI dogs; 27.5 s, 5 s end card. Loaded at Rob's \"Go.\" Nov 2 as ad 120254054308100019 in the dog ad set 120253975775650019 ($15 a day, men 35 to 55), copy of the 15% dog ad's text, link and WELCOME15, Shop off, AI label on, utm_content=dogs_alex_intercut; replaces the 15% sticker ad 120254001119830019 once it serves. Files in 09_WORKING/creative/explore/dog_talk_2026-10-22/alex_intercut_2026-10-31/.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W09_reel_founder_why_v8_9x16",
    "week": "W09",
@@ -17,9 +40,9 @@
    "concept": null,
    "status": "approved",
    "created": "2026-11-02",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Why I Started Renvir v8: Alex's own read and his photos; Alex saw it Oct 30, no notes; posted organic at Rob's go Nov 2",
+   "sent_to": "Instagram",
+   "sent_date": "2026-11-02",
+   "notes": "Instagram Reel LIVE at Rob's go, Nov 2, 11:23 am Rob's time: https://www.instagram.com/reel/DfPuhPkjz9D/ (media 18436362379197161), shared to feed, no AI label, cover renvir_W09_cover_founder_why_v8_9x16.jpg (the 1.8 s frame, his name card), Collab invite @danzealex Pending (Alex accepts in the app), @danzealex mentioned. Tags #renvir #mensskincare #skincareformen #menover40 #founderstory. Facebook twin: https://www.facebook.com/reel/1153525670759508/. Story: Rob shares the Reel from his phone.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -40,9 +63,9 @@
    "concept": null,
    "status": "approved",
    "created": "2026-11-02",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Alex's own sink video cut between Blaze and Mango; organic cut, no sticker",
+   "sent_to": "Facebook Page",
+   "sent_date": "2026-11-02",
+   "notes": "Facebook Page reel LIVE at Rob's go, Nov 2, 11:12 am Rob's time: https://www.facebook.com/reel/39570878682556318/ (native caption read back as caption_fb.txt, no tags). Instagram twin: https://www.instagram.com/reel/DfPtPZPjkLY/. Story: Rob shares the Reel from his phone.",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -1824,7 +1847,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-02T10:24:54.909655-05:00",
+      "at": "2026-11-02T13:26:04.852217-05:00",
       "reach": 62,
       "views": 93,
       "likes": 6,
@@ -5603,6 +5626,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:04.852217-05:00",
+       "reach": 62,
+       "views": 93,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -5660,7 +5695,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-02T10:24:54.026482-05:00",
+      "at": "2026-11-02T13:26:02.203996-05:00",
       "reach": 228,
       "views": 350,
       "likes": 18,
@@ -9391,6 +9426,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:02.203996-05:00",
+       "reach": 228,
+       "views": 350,
+       "likes": 18,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -9502,7 +9549,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-02T10:24:56.114124-05:00",
+      "at": "2026-11-02T13:26:06.431867-05:00",
       "reach": 132,
       "views": 208,
       "likes": 14,
@@ -13341,6 +13388,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:06.431867-05:00",
+       "reach": 132,
+       "views": 208,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -13444,7 +13503,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-02T10:25:01.951075-05:00",
+      "at": "2026-11-02T13:26:11.492252-05:00",
       "reach": 70,
       "views": 121,
       "likes": 8,
@@ -17499,6 +17558,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:11.492252-05:00",
+       "reach": 70,
+       "views": 121,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -17556,7 +17627,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-02T10:25:16.697422-05:00",
+      "at": "2026-11-02T13:26:17.583301-05:00",
       "reach": 46,
       "views": 96,
       "likes": 7,
@@ -21611,6 +21682,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:17.583301-05:00",
+       "reach": 46,
+       "views": 96,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -21668,7 +21751,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-02T10:24:40.859136-05:00",
+      "at": "2026-11-02T13:25:49.835325-05:00",
       "reach": 51,
       "views": 89,
       "likes": 8,
@@ -25711,6 +25794,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:25:49.835325-05:00",
+       "reach": 51,
+       "views": 89,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -25814,7 +25909,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-02T10:25:05.457137-05:00",
+      "at": "2026-11-02T13:26:08.980492-05:00",
       "reach": 291,
       "views": 469,
       "likes": 13,
@@ -29953,6 +30048,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-02T13:26:08.980492-05:00",
+       "reach": 291,
+       "views": 469,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -32234,6 +32341,10 @@
    {
     "at": "2026-11-02T10:24:18.121786-05:00",
     "followers": 240
+   },
+   {
+    "at": "2026-11-02T13:25:29.259264-05:00",
+    "followers": 242
    }
   ],
   "facebook": [
@@ -33636,14 +33747,18 @@
    {
     "at": "2026-11-02T10:24:18.736180-05:00",
     "followers": 26
+   },
+   {
+    "at": "2026-11-02T13:25:29.872342-05:00",
+    "followers": 26
    }
   ]
  },
  "summary": {
-  "pieces": 133,
+  "pieces": 134,
   "by_status": {
+   "review": 23,
    "approved": 11,
-   "review": 22,
    "draft": 91,
    "rejected": 1,
    "live": 7,
