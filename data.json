@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-02T16:08:03+00:00",
+ "generated_at": "2026-11-02T16:19:11+00:00",
  "pieces": [
+  {
+   "id": "renvir_W09_reel_founder_why_v8_9x16",
+   "week": "W09",
+   "type": "reel",
+   "subject": "founder_why",
+   "file": "renvir_W09_reel_founder_why_v8_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W09_reel_founder_why_v8_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-02",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Why I Started Renvir v8: Alex's own read and his photos; Alex saw it Oct 30, no notes; posted organic at Rob's go Nov 2",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W10_reel_dogs_alex_intercut_9x16",
    "week": "W10",
@@ -33617,9 +33640,9 @@
   ]
  },
  "summary": {
-  "pieces": 132,
+  "pieces": 133,
   "by_status": {
-   "approved": 10,
+   "approved": 11,
    "review": 22,
    "draft": 91,
    "rejected": 1,
