@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:39:20+00:00",
+ "generated_at": "2026-11-16T23:40:53+00:00",
  "pieces": [
   {
    "id": "renvir_W11_reel_kirby_hook1_9x16",
@@ -20,6 +20,29 @@
    "sent_to": "public",
    "sent_date": "2026-11-16",
    "notes": "Kirby UGC Hook 1 (from Alex Oct 23): table shot rebuilt as one pan from a Nano Banana 2.1 still, the silicone line cut, his captions, offer line 15% off first routine / Link in bio; posted at Rob's Post Nov 16: Instagram https://www.instagram.com/reel/Df0C7GijVF6/ (18107405228327223), Facebook Page video 1001135232880313; no AI label (real footage; the table pan is a generated still)",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W11_reel_kirby_hook1_tiktok_9x16",
+   "week": "W11",
+   "type": "reel",
+   "subject": "kirby_hook1_tiktok",
+   "file": "renvir_W11_reel_kirby_hook1_tiktok_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W11_reel_kirby_hook1_tiktok_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-11-16",
+   "sent_to": "public",
+   "sent_date": "2026-11-16",
+   "notes": "TikTok cut of Kirby Hook 1 (captions 60 px higher, Shop the routine below / Tap the product link), posted via Seller Center Content hub at Rob's Check and post: https://www.tiktok.com/@renvirofficial/video/7708879352460479758, kit 1732800946638197101 linked as Complete Face Regimen, disclosure Your brand, no AI label",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -2330,7 +2353,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T15:38:50.033882-05:00",
+      "at": "2026-11-16T18:40:15.809809-05:00",
       "reach": 67,
       "views": 99,
       "likes": 6,
@@ -7441,6 +7464,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:15.809809-05:00",
+       "reach": 67,
+       "views": 99,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -7498,7 +7533,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T15:38:47.512243-05:00",
+      "at": "2026-11-16T18:40:23.414253-05:00",
       "reach": 245,
       "views": 366,
       "likes": 20,
@@ -12561,6 +12596,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:23.414253-05:00",
+       "reach": 245,
+       "views": 366,
+       "likes": 20,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -12672,7 +12719,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T15:38:52.003523-05:00",
+      "at": "2026-11-16T18:40:17.118793-05:00",
       "reach": 136,
       "views": 213,
       "likes": 14,
@@ -17843,6 +17890,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:17.118793-05:00",
+       "reach": 136,
+       "views": 213,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -17946,7 +18005,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T15:38:59.566020-05:00",
+      "at": "2026-11-16T18:40:36.693152-05:00",
       "reach": 72,
       "views": 122,
       "likes": 8,
@@ -23333,6 +23392,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:36.693152-05:00",
+       "reach": 72,
+       "views": 122,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -23390,7 +23461,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T15:39:06.718944-05:00",
+      "at": "2026-11-16T18:40:41.343904-05:00",
       "reach": 47,
       "views": 97,
       "likes": 7,
@@ -28777,6 +28848,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:41.343904-05:00",
+       "reach": 47,
+       "views": 97,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -28834,7 +28917,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T15:38:25.102136-05:00",
+      "at": "2026-11-16T18:40:06.615323-05:00",
       "reach": 52,
       "views": 90,
       "likes": 8,
@@ -34209,6 +34292,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:06.615323-05:00",
+       "reach": 52,
+       "views": 90,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -34312,7 +34407,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T15:38:56.469203-05:00",
+      "at": "2026-11-16T18:40:31.265803-05:00",
       "reach": 292,
       "views": 470,
       "likes": 13,
@@ -39783,6 +39878,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T18:40:31.265803-05:00",
+       "reach": 292,
+       "views": 470,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -42508,6 +42615,10 @@
    {
     "at": "2026-11-16T15:38:05.950470-05:00",
     "followers": 265
+   },
+   {
+    "at": "2026-11-16T18:39:32.237629-05:00",
+    "followers": 265
    }
   ],
   "facebook": [
@@ -44354,14 +44465,18 @@
    {
     "at": "2026-11-16T15:38:06.429960-05:00",
     "followers": 29
+   },
+   {
+    "at": "2026-11-16T18:39:33.036313-05:00",
+    "followers": 29
    }
   ]
  },
  "summary": {
-  "pieces": 155,
+  "pieces": 156,
   "by_status": {
    "approved": 12,
-   "review": 43,
+   "review": 44,
    "draft": 91,
    "rejected": 1,
    "live": 7,
