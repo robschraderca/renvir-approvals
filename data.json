@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-16T18:50:01+00:00",
+ "generated_at": "2026-11-16T18:50:12+00:00",
  "pieces": [
+  {
+   "id": "renvir_W11_reel_kirby_hook1_9x16",
+   "week": "W11",
+   "type": "reel",
+   "subject": "kirby_hook1",
+   "file": "renvir_W11_reel_kirby_hook1_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W11_reel_kirby_hook1_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-16",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Kirby UGC Hook 1, captions, silicone line cut, offer line; organic IG and FB at Rob's word Nov 16 (Post)",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W10_still_routine_charcoal_lean_labels_4x5",
    "week": "W10",
@@ -44243,10 +44266,10 @@
   ]
  },
  "summary": {
-  "pieces": 154,
+  "pieces": 155,
   "by_status": {
+   "approved": 12,
    "review": 43,
-   "approved": 11,
    "draft": 91,
    "rejected": 1,
    "live": 7,
@@ -44262,7 +44285,8 @@
    "W07",
    "W08",
    "W09",
-   "W10"
+   "W10",
+   "W11"
   ]
  }
 }
