@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:50:12+00:00",
+ "generated_at": "2026-11-16T20:39:20+00:00",
  "pieces": [
   {
    "id": "renvir_W11_reel_kirby_hook1_9x16",
@@ -17,9 +17,9 @@
    "concept": null,
    "status": "approved",
    "created": "2026-11-16",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "Kirby UGC Hook 1, captions, silicone line cut, offer line; organic IG and FB at Rob's word Nov 16 (Post)",
+   "sent_to": "public",
+   "sent_date": "2026-11-16",
+   "notes": "Kirby UGC Hook 1 (from Alex Oct 23): table shot rebuilt as one pan from a Nano Banana 2.1 still, the silicone line cut, his captions, offer line 15% off first routine / Link in bio; posted at Rob's Post Nov 16: Instagram https://www.instagram.com/reel/Df0C7GijVF6/ (18107405228327223), Facebook Page video 1001135232880313; no AI label (real footage; the table pan is a generated still)",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -2330,7 +2330,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T13:49:34.105042-05:00",
+      "at": "2026-11-16T15:38:50.033882-05:00",
       "reach": 67,
       "views": 99,
       "likes": 6,
@@ -7429,6 +7429,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:50.033882-05:00",
+       "reach": 67,
+       "views": 99,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -7486,7 +7498,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T13:49:33.056091-05:00",
+      "at": "2026-11-16T15:38:47.512243-05:00",
       "reach": 245,
       "views": 366,
       "likes": 20,
@@ -12537,6 +12549,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:47.512243-05:00",
+       "reach": 245,
+       "views": 366,
+       "likes": 20,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -12648,7 +12672,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-16T13:49:35.018481-05:00",
+      "at": "2026-11-16T15:38:52.003523-05:00",
       "reach": 136,
       "views": 213,
       "likes": 14,
@@ -17807,6 +17831,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:52.003523-05:00",
+       "reach": 136,
+       "views": 213,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -17910,7 +17946,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T13:49:40.537351-05:00",
+      "at": "2026-11-16T15:38:59.566020-05:00",
       "reach": 72,
       "views": 122,
       "likes": 8,
@@ -23285,6 +23321,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:59.566020-05:00",
+       "reach": 72,
+       "views": 122,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -23342,7 +23390,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T13:49:49.739423-05:00",
+      "at": "2026-11-16T15:39:06.718944-05:00",
       "reach": 47,
       "views": 97,
       "likes": 7,
@@ -28717,6 +28765,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:39:06.718944-05:00",
+       "reach": 47,
+       "views": 97,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -28774,7 +28834,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T13:49:27.272713-05:00",
+      "at": "2026-11-16T15:38:25.102136-05:00",
       "reach": 52,
       "views": 90,
       "likes": 8,
@@ -34137,6 +34197,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:25.102136-05:00",
+       "reach": 52,
+       "views": 90,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -34240,7 +34312,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-16T13:49:44.084124-05:00",
+      "at": "2026-11-16T15:38:56.469203-05:00",
       "reach": 292,
       "views": 470,
       "likes": 13,
@@ -39699,6 +39771,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-16T15:38:56.469203-05:00",
+       "reach": 292,
+       "views": 470,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -42420,6 +42504,10 @@
    {
     "at": "2026-11-16T13:48:57.386426-05:00",
     "followers": 265
+   },
+   {
+    "at": "2026-11-16T15:38:05.950470-05:00",
+    "followers": 265
    }
   ],
   "facebook": [
@@ -44261,6 +44349,10 @@
    },
    {
     "at": "2026-11-16T13:48:57.812638-05:00",
+    "followers": 29
+   },
+   {
+    "at": "2026-11-16T15:38:06.429960-05:00",
     "followers": 29
    }
   ]
