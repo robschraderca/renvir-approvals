@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:35:22+00:00",
+ "generated_at": "2026-11-20T22:04:33+00:00",
  "pieces": [
   {
    "id": "renvir_W11_reel_newman_routine_organic_9x16",
@@ -17,9 +17,32 @@
    "concept": null,
    "status": "approved",
    "created": "2026-11-20",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "New guy routine video, IG and FB organic, 15% first order offer on the end card; approved by Alex via Rob Nov 20 2026",
+   "sent_to": "public",
+   "sent_date": "2026-11-20",
+   "notes": "Same video for Instagram and Facebook with the first order offer on the end card (15% OFF THE COMPLETE ROUTINE / ON YOUR FIRST ORDER.); posted at Rob's \"Yes, post both\": Instagram https://www.instagram.com/reel/Df-o44AFCqg/ (18420240334080054, AI label on, shared to feed), Facebook https://www.facebook.com/reel/1142660518132056/ (WELCOME15 link tagged facebook / organic / newman_routine); AI line last in both captions | DELETED Nov 20 2026 about 3 pm Pacific at Rob's word (Alex: too yellow, door handle); fixed version to follow",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W11_reel_newman_routine_talking_full_v9_look2_9x16",
+   "week": "W11",
+   "type": "reel",
+   "subject": "newman_routine_tiktok",
+   "file": "renvir_W11_reel_newman_routine_talking_full_v9_look2_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W11_reel_newman_routine_talking_full_v9_look2_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-11-20",
+   "sent_to": "public",
+   "sent_date": "2026-11-20",
+   "notes": "New guy routine video (AI generated man, Rob's own reads, script v8, real labels pinned), v9, approved by Alex via Rob; posted shoppable through Seller Center at Rob's \"Yes, post with A\": https://www.tiktok.com/@renvirofficial/video/7710362386623909134, kit 1732800946638197101 linked as Complete Face Regimen, TikTok's hashtags, AI label on, quality check No issues | DELETED Nov 20 2026 about 3 pm Pacific at Rob's word (Alex: too yellow, door handle); fixed version to follow",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -2399,7 +2422,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-20T14:02:21.479312-05:00",
+      "at": "2026-11-20T17:03:59.020444-05:00",
       "reach": 67,
       "views": 99,
       "likes": 6,
@@ -7894,6 +7917,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:03:59.020444-05:00",
+       "reach": 67,
+       "views": 99,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -7951,7 +7986,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-20T14:02:15.273494-05:00",
+      "at": "2026-11-20T17:03:57.471037-05:00",
       "reach": 245,
       "views": 366,
       "likes": 20,
@@ -13398,6 +13433,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:03:57.471037-05:00",
+       "reach": 245,
+       "views": 366,
+       "likes": 20,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -13509,7 +13556,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-20T14:02:13.784140-05:00",
+      "at": "2026-11-20T17:04:01.444905-05:00",
       "reach": 136,
       "views": 213,
       "likes": 14,
@@ -19064,6 +19111,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:04:01.444905-05:00",
+       "reach": 136,
+       "views": 213,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -19167,7 +19226,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-20T14:02:25.921361-05:00",
+      "at": "2026-11-20T17:04:07.704799-05:00",
       "reach": 72,
       "views": 122,
       "likes": 8,
@@ -24938,6 +24997,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:04:07.704799-05:00",
+       "reach": 72,
+       "views": 122,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -24995,7 +25066,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-20T14:02:41.635737-05:00",
+      "at": "2026-11-20T17:04:18.011505-05:00",
       "reach": 47,
       "views": 97,
       "likes": 7,
@@ -30766,6 +30837,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:04:18.011505-05:00",
+       "reach": 47,
+       "views": 97,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -30823,7 +30906,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-20T14:02:10.681406-05:00",
+      "at": "2026-11-20T17:03:40.436812-05:00",
       "reach": 52,
       "views": 90,
       "likes": 8,
@@ -36582,6 +36665,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:03:40.436812-05:00",
+       "reach": 52,
+       "views": 90,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -36685,7 +36780,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-20T14:02:30.456651-05:00",
+      "at": "2026-11-20T17:04:04.129119-05:00",
       "reach": 292,
       "views": 470,
       "likes": 13,
@@ -42540,6 +42635,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-20T17:04:04.129119-05:00",
+       "reach": 292,
+       "views": 470,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -45393,6 +45500,10 @@
    {
     "at": "2026-11-20T14:01:26.929787-05:00",
     "followers": 265
+   },
+   {
+    "at": "2026-11-20T17:03:07.824088-05:00",
+    "followers": 265
    }
   ],
   "facebook": [
@@ -47367,14 +47478,18 @@
    {
     "at": "2026-11-20T14:01:27.591068-05:00",
     "followers": 29
+   },
+   {
+    "at": "2026-11-20T17:03:08.430434-05:00",
+    "followers": 29
    }
   ]
  },
  "summary": {
-  "pieces": 158,
+  "pieces": 159,
   "by_status": {
    "approved": 14,
-   "review": 44,
+   "review": 45,
    "draft": 91,
    "rejected": 1,
    "live": 7,
