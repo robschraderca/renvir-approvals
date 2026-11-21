@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-21T16:14:46+00:00",
+ "generated_at": "2026-11-21T19:05:05+00:00",
  "pieces": [
+  {
+   "id": "renvir_W11_reel_newman_routine_reshoot_organic_9x16",
+   "week": "W11",
+   "type": "reel",
+   "subject": "newman_routine_reshoot",
+   "file": "renvir_W11_reel_newman_routine_reshoot_organic_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W11_reel_newman_routine_reshoot_organic_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-21",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "New guy routine video, clean reshoot v4, captions, end card with the first order offer; for Instagram and Facebook, Rob: Post both (Nov 21 2026)",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W11_reel_newman_routine_organic_9x16",
    "week": "W11",
@@ -48038,9 +48061,9 @@
   ]
  },
  "summary": {
-  "pieces": 159,
+  "pieces": 160,
   "by_status": {
-   "approved": 14,
+   "approved": 15,
    "review": 45,
    "draft": 91,
    "rejected": 1,
