@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:05:05+00:00",
+ "generated_at": "2026-11-21T19:16:38+00:00",
  "pieces": [
   {
    "id": "renvir_W11_reel_newman_routine_reshoot_organic_9x16",
@@ -17,9 +17,32 @@
    "concept": null,
    "status": "approved",
    "created": "2026-11-21",
-   "sent_to": null,
-   "sent_date": null,
-   "notes": "New guy routine video, clean reshoot v4, captions, end card with the first order offer; for Instagram and Facebook, Rob: Post both (Nov 21 2026)",
+   "sent_to": "public",
+   "sent_date": "2026-11-21",
+   "notes": "New guy routine video, clean reshoot v4 for Instagram and Facebook: captions, end card with the first order offer (15% OFF THE COMPLETE ROUTINE / ON YOUR FIRST ORDER.); posted at Rob's \"Post both\" Nov 21 2026 11:08 am Pacific: Instagram https://www.instagram.com/reel/DgA8gVeGUEa/ (AI label on), Facebook https://www.facebook.com/reel/1200089389345266/",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W11_reel_newman_routine_reshoot_v4_tiktok_captions_9x16",
+   "week": "W11",
+   "type": "reel",
+   "subject": "newman_routine_tiktok",
+   "file": "renvir_W11_reel_newman_routine_reshoot_v4_tiktok_captions_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W11_reel_newman_routine_reshoot_v4_tiktok_captions_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "review",
+   "created": "2026-11-21",
+   "sent_to": "public",
+   "sent_date": "2026-11-21",
+   "notes": "New guy routine video, clean reshoot v4 (AI generated man, Rob's own reads, script v8, real labels pinned), no end card, captions on; approved by Alex via Rob; posted shoppable through Seller Center Nov 21 2026 10:48 am Pacific, kit linked, AI label on, quality check No issues: https://www.tiktok.com/@renvirofficial/video/7710698381840108814 (the Nov 20 v9 posts were deleted that day)",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -2445,7 +2468,7 @@
      "published_at": "2026-09-23T10:54:37-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-21T11:14:07.447026-05:00",
+      "at": "2026-11-21T14:15:55.052254-05:00",
       "reach": 67,
       "views": 99,
       "likes": 6,
@@ -8024,6 +8047,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:15:55.052254-05:00",
+       "reach": 67,
+       "views": 99,
+       "likes": 6,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -8081,7 +8116,7 @@
      "published_at": "2026-09-23T20:49:14-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-21T11:14:06.004503-05:00",
+      "at": "2026-11-21T14:15:49.429035-05:00",
       "reach": 245,
       "views": 366,
       "likes": 20,
@@ -13612,6 +13647,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:15:49.429035-05:00",
+       "reach": 245,
+       "views": 366,
+       "likes": 20,
+       "comments": 1,
+       "saves": 0,
+       "shares": 0,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -13723,7 +13770,7 @@
      "published_at": "2026-09-22T19:02:01-05:00",
      "media_type": "REELS",
      "latest": {
-      "at": "2026-11-21T11:14:08.909749-05:00",
+      "at": "2026-11-21T14:15:57.756966-05:00",
       "reach": 136,
       "views": 213,
       "likes": 14,
@@ -19362,6 +19409,18 @@
        "follows": null,
        "profile_visits": null,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:15:57.756966-05:00",
+       "reach": 136,
+       "views": 213,
+       "likes": 14,
+       "comments": 0,
+       "saves": 0,
+       "shares": 1,
+       "follows": null,
+       "profile_visits": null,
+       "link_clicks": null
       }
      ]
     }
@@ -19465,7 +19524,7 @@
      "published_at": "2026-09-20T14:31:53-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-21T11:14:24.550924-05:00",
+      "at": "2026-11-21T14:16:05.544586-05:00",
       "reach": 72,
       "views": 122,
       "likes": 8,
@@ -25320,6 +25379,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:16:05.544586-05:00",
+       "reach": 72,
+       "views": 122,
+       "likes": 8,
+       "comments": 2,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -25377,7 +25448,7 @@
      "published_at": "2026-09-20T14:32:56-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-21T11:14:29.436088-05:00",
+      "at": "2026-11-21T14:16:15.599962-05:00",
       "reach": 47,
       "views": 97,
       "likes": 7,
@@ -31232,6 +31303,18 @@
        "follows": 0,
        "profile_visits": 1,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:16:15.599962-05:00",
+       "reach": 47,
+       "views": 97,
+       "likes": 7,
+       "comments": 0,
+       "saves": 1,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 1,
+       "link_clicks": null
       }
      ]
     }
@@ -31289,7 +31372,7 @@
      "published_at": "2026-09-20T14:33:08-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-21T11:13:52.342335-05:00",
+      "at": "2026-11-21T14:15:33.250212-05:00",
       "reach": 52,
       "views": 90,
       "likes": 8,
@@ -37132,6 +37215,18 @@
        "follows": 0,
        "profile_visits": 0,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:15:33.250212-05:00",
+       "reach": 52,
+       "views": 90,
+       "likes": 8,
+       "comments": 0,
+       "saves": 0,
+       "shares": 0,
+       "follows": 0,
+       "profile_visits": 0,
+       "link_clicks": null
       }
      ]
     }
@@ -37235,7 +37330,7 @@
      "published_at": "2026-09-19T18:39:59-05:00",
      "media_type": "FEED",
      "latest": {
-      "at": "2026-11-21T11:14:15.115064-05:00",
+      "at": "2026-11-21T14:16:09.621914-05:00",
       "reach": 292,
       "views": 470,
       "likes": 13,
@@ -43174,6 +43269,18 @@
        "follows": 1,
        "profile_visits": 4,
        "link_clicks": null
+      },
+      {
+       "at": "2026-11-21T14:16:09.621914-05:00",
+       "reach": 292,
+       "views": 470,
+       "likes": 13,
+       "comments": 1,
+       "saves": 0,
+       "shares": 3,
+       "follows": 1,
+       "profile_visits": 4,
+       "link_clicks": null
       }
      ]
     }
@@ -46055,6 +46162,10 @@
    {
     "at": "2026-11-21T11:13:17.907564-05:00",
     "followers": 266
+   },
+   {
+    "at": "2026-11-21T14:14:54.723764-05:00",
+    "followers": 266
    }
   ],
   "facebook": [
@@ -48057,14 +48168,18 @@
    {
     "at": "2026-11-21T11:13:18.537719-05:00",
     "followers": 29
+   },
+   {
+    "at": "2026-11-21T14:14:55.326080-05:00",
+    "followers": 29
    }
   ]
  },
  "summary": {
-  "pieces": 160,
+  "pieces": 161,
   "by_status": {
    "approved": 15,
-   "review": 45,
+   "review": 46,
    "draft": 91,
    "rejected": 1,
    "live": 7,
