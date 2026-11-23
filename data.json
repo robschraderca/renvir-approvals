@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-22T22:31:51+00:00",
+ "generated_at": "2026-11-23T00:47:32+00:00",
  "pieces": [
+  {
+   "id": "renvir_W12_static_kirby_quote_bf_feed_4x5",
+   "week": "W12",
+   "type": "static",
+   "subject": "kirby_quote_bf",
+   "file": "renvir_W12_static_kirby_quote_bf_feed_4x5.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W12_static_kirby_quote_bf_feed_4x5.jpg",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-22",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "W12 kirby_quote_bf, shipped by ship.py",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W11_reel_newman_routine_reshoot_organic_9x16",
    "week": "W11",
@@ -49050,9 +49073,9 @@
   ]
  },
  "summary": {
-  "pieces": 163,
+  "pieces": 164,
   "by_status": {
-   "approved": 15,
+   "approved": 16,
    "review": 48,
    "draft": 91,
    "rejected": 1,
