@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-24T18:00:52+00:00",
+ "generated_at": "2026-11-24T19:11:00+00:00",
  "pieces": [
+  {
+   "id": "renvir_W13_reel_sean_ugc_v7meta_9x16",
+   "week": "W13",
+   "type": "reel",
+   "subject": "sean_ugc_v7meta",
+   "file": "renvir_W13_reel_sean_ugc_v7meta_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W13_reel_sean_ugc_v7meta_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "real",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-24",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Sean Driscoll UGC, IG and FB, Black Friday card; scheduled 3:30 pm PT Nov 24",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W13_reel_talia_quote_v3_ad_9x16",
    "week": "W13",
@@ -50430,9 +50453,9 @@
   ]
  },
  "summary": {
-  "pieces": 167,
+  "pieces": 168,
   "by_status": {
-   "approved": 19,
+   "approved": 20,
    "review": 48,
    "draft": 91,
    "rejected": 1,
