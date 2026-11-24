@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-24T16:55:14+00:00",
+ "generated_at": "2026-11-24T16:57:28+00:00",
  "pieces": [
+  {
+   "id": "renvir_W13_reel_talia_quote_v3_ad_9x16",
+   "week": "W13",
+   "type": "reel",
+   "subject": "talia_quote_v3",
+   "file": "renvir_W13_reel_talia_quote_v3_ad_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W13_reel_talia_quote_v3_ad_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-24",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Talia's quote over the routine, no people; posted organic Nov 24 at Rob's word",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W12_static_kirby_quote_bf_feed_4x5",
    "week": "W12",
@@ -50384,9 +50407,9 @@
   ]
  },
  "summary": {
-  "pieces": 165,
+  "pieces": 166,
   "by_status": {
-   "approved": 17,
+   "approved": 18,
    "review": 48,
    "draft": 91,
    "rejected": 1,
@@ -50405,7 +50428,8 @@
    "W09",
    "W10",
    "W11",
-   "W12"
+   "W12",
+   "W13"
   ]
  }
 }
