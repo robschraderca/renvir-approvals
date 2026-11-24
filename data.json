@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:07:16+00:00",
+ "generated_at": "2026-11-24T17:13:53+00:00",
  "pieces": [
   {
    "id": "renvir_W13_reel_talia_quote_v3_ad_9x16",
@@ -43,6 +43,29 @@
    "sent_to": null,
    "sent_date": null,
    "notes": "Talia's quote v4, quote centred; Facebook repost Nov 24 at Rob's word",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
+  {
+   "id": "renvir_W13_reel_talia_quote_v5_ad_9x16",
+   "week": "W13",
+   "type": "reel",
+   "subject": "talia_quote_v5",
+   "file": "renvir_W13_reel_talia_quote_v5_ad_9x16.mp4",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W13_reel_talia_quote_v5_ad_9x16.mp4",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": false,
+   "aspect": "9x16",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-24",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Talia's quote v5: quote centred, Black Friday 20% end card, Rob's clone line; Facebook repost Nov 24 at Rob's word",
    "approvals": [],
    "posts": [],
    "drafts": []
@@ -50430,9 +50453,9 @@
   ]
  },
  "summary": {
-  "pieces": 167,
+  "pieces": 168,
   "by_status": {
-   "approved": 19,
+   "approved": 20,
    "review": 48,
    "draft": 91,
    "rejected": 1,
