@@ -1,6 +1,29 @@
 {
- "generated_at": "2026-11-27T14:35:33+00:00",
+ "generated_at": "2026-11-27T14:56:59+00:00",
  "pieces": [
+  {
+   "id": "renvir_W13_static_she_notices_babe_4x5",
+   "week": "W13",
+   "type": "static",
+   "subject": "she_notices",
+   "file": "renvir_W13_static_she_notices_babe_4x5.jpg",
+   "public_url": "https://robschraderca.github.io/renvir-approvals/media/renvir_W13_static_she_notices_babe_4x5.jpg",
+   "thumb_url": null,
+   "real_or_ai": "ai",
+   "ai_people": true,
+   "aspect": "4x5",
+   "lane": "organic",
+   "look": null,
+   "concept": null,
+   "status": "approved",
+   "created": "2026-11-27",
+   "sent_to": null,
+   "sent_date": null,
+   "notes": "Rob: Post it (Nov 27). Organic IG and FB.",
+   "approvals": [],
+   "posts": [],
+   "drafts": []
+  },
   {
    "id": "renvir_W13_reel_sean_ugc_v7meta_9x16",
    "week": "W13",
@@ -52638,9 +52661,9 @@
   ]
  },
  "summary": {
-  "pieces": 167,
+  "pieces": 168,
   "by_status": {
-   "approved": 19,
+   "approved": 20,
    "review": 48,
    "draft": 91,
    "rejected": 1,
